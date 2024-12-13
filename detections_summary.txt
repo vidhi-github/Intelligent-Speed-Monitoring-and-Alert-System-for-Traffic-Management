@@ -1,0 +1,8830 @@
+
+12:44:35
+Vehicle 1
+Speed: 0.00 km/h
+###########
+
+12:44:35
+Vehicle 2
+Speed: 0.00 km/h
+###########
+
+12:44:35
+Vehicle 3
+Speed: 0.00 km/h
+###########
+
+12:44:35
+Vehicle 4
+Speed: 0.00 km/h
+###########
+
+12:44:35
+Vehicle 6
+Speed: 0.00 km/h
+###########
+
+12:44:36
+Vehicle 1
+Speed: 0.00 km/h
+###########
+
+12:44:36
+Vehicle 2
+Speed: 165.07 km/h
+###########
+
+12:44:36
+Vehicle 3
+Speed: 211.78 km/h
+###########
+
+12:44:36
+Vehicle 4
+Speed: 13.95 km/h
+###########
+
+12:44:36
+Vehicle 6
+Speed: 0.00 km/h
+###########
+
+12:44:38
+Vehicle 1
+Speed: 184.20 km/h
+###########
+
+12:44:38
+Vehicle 2
+Speed: 166.31 km/h
+###########
+
+12:44:38
+Vehicle 3
+Speed: 188.36 km/h
+###########
+
+12:44:38
+Vehicle 4
+Speed: 81.40 km/h
+###########
+
+12:44:38
+Vehicle 6
+Speed: 4.03 km/h
+###########
+
+12:44:40
+Vehicle 1
+Speed: 254.46 km/h
+###########
+
+12:44:40
+Vehicle 2
+Speed: 169.58 km/h
+###########
+
+12:44:40
+Vehicle 3
+Speed: 173.11 km/h
+###########
+
+12:44:40
+Vehicle 4
+Speed: 104.61 km/h
+###########
+
+12:44:40
+Vehicle 6
+Speed: 65.54 km/h
+###########
+
+12:44:41
+Vehicle 1
+Speed: 282.79 km/h
+###########
+
+12:44:41
+Vehicle 2
+Speed: 141.00 km/h
+###########
+
+12:44:41
+Vehicle 3
+Speed: 182.02 km/h
+###########
+
+12:44:41
+Vehicle 4
+Speed: 82.02 km/h
+###########
+
+12:44:41
+Vehicle 6
+Speed: 49.16 km/h
+###########
+
+12:44:41
+Vehicle 1
+Speed: 229.28 km/h
+###########
+
+12:44:41
+Vehicle 2
+Speed: 149.76 km/h
+###########
+
+12:44:42
+Vehicle 3
+Speed: 182.67 km/h
+###########
+
+12:44:42
+Vehicle 4
+Speed: 129.59 km/h
+###########
+
+12:44:42
+Vehicle 6
+Speed: 39.32 km/h
+###########
+
+12:44:43
+Vehicle 1
+Speed: 256.03 km/h
+###########
+
+12:44:43
+Vehicle 2
+Speed: 145.33 km/h
+###########
+
+12:44:43
+Vehicle 3
+Speed: 184.73 km/h
+###########
+
+12:44:43
+Vehicle 4
+Speed: 133.36 km/h
+###########
+
+12:44:43
+Vehicle 6
+Speed: 63.62 km/h
+###########
+
+12:44:44
+Vehicle 1
+Speed: 221.68 km/h
+###########
+
+12:44:44
+Vehicle 2
+Speed: 142.50 km/h
+###########
+
+12:44:44
+Vehicle 3
+Speed: 187.38 km/h
+###########
+
+12:44:44
+Vehicle 4
+Speed: 136.36 km/h
+###########
+
+12:44:44
+Vehicle 6
+Speed: 54.53 km/h
+###########
+
+12:44:45
+Vehicle 1
+Speed: 195.91 km/h
+###########
+
+12:44:45
+Vehicle 2
+Speed: 148.78 km/h
+###########
+
+12:44:45
+Vehicle 3
+Speed: 190.47 km/h
+###########
+
+12:44:45
+Vehicle 4
+Speed: 139.63 km/h
+###########
+
+12:44:45
+Vehicle 6
+Speed: 48.75 km/h
+###########
+
+12:44:46
+Vehicle 1
+Speed: 216.85 km/h
+###########
+
+12:44:46
+Vehicle 2
+Speed: 138.84 km/h
+###########
+
+12:44:46
+Vehicle 3
+Speed: 189.41 km/h
+###########
+
+12:44:46
+Vehicle 4
+Speed: 142.44 km/h
+###########
+
+12:44:46
+Vehicle 6
+Speed: 64.97 km/h
+###########
+
+12:44:46
+Vehicle 1
+Speed: 235.97 km/h
+###########
+
+12:44:46
+Vehicle 2
+Speed: 144.96 km/h
+###########
+
+12:44:46
+Vehicle 3
+Speed: 185.32 km/h
+###########
+
+12:44:46
+Vehicle 4
+Speed: 129.73 km/h
+###########
+
+12:44:46
+Vehicle 6
+Speed: 58.47 km/h
+###########
+
+12:44:48
+Vehicle 1
+Speed: 251.17 km/h
+###########
+
+12:44:48
+Vehicle 2
+Speed: 137.56 km/h
+###########
+
+12:44:48
+Vehicle 3
+Speed: 186.03 km/h
+###########
+
+12:44:48
+Vehicle 4
+Speed: 133.70 km/h
+###########
+
+12:44:48
+Vehicle 6
+Speed: 70.54 km/h
+###########
+
+12:44:48
+Vehicle 14
+Speed: 0.00 km/h
+###########
+
+12:44:49
+Vehicle 1
+Speed: 230.24 km/h
+###########
+
+12:44:49
+Vehicle 2
+Speed: 149.73 km/h
+###########
+
+12:44:49
+Vehicle 3
+Speed: 187.35 km/h
+###########
+
+12:44:49
+Vehicle 4
+Speed: 136.22 km/h
+###########
+
+12:44:49
+Vehicle 6
+Speed: 64.66 km/h
+###########
+
+12:44:49
+Vehicle 14
+Speed: 145.52 km/h
+###########
+
+12:44:49
+Vehicle 15
+Speed: 0.00 km/h
+###########
+
+12:44:49
+Vehicle 1
+Speed: 213.80 km/h
+###########
+
+12:44:49
+Vehicle 2
+Speed: 143.71 km/h
+###########
+
+12:44:49
+Vehicle 3
+Speed: 182.41 km/h
+###########
+
+12:44:49
+Vehicle 4
+Speed: 139.50 km/h
+###########
+
+12:44:49
+Vehicle 6
+Speed: 59.69 km/h
+###########
+
+12:44:49
+Vehicle 14
+Speed: 146.57 km/h
+###########
+
+12:44:49
+Vehicle 15
+Speed: 261.65 km/h
+###########
+
+12:44:49
+Vehicle 17
+Speed: 0.00 km/h
+###########
+
+12:44:50
+Vehicle 1
+Speed: 199.71 km/h
+###########
+
+12:44:50
+Vehicle 2
+Speed: 143.63 km/h
+###########
+
+12:44:50
+Vehicle 3
+Speed: 184.81 km/h
+###########
+
+12:44:50
+Vehicle 4
+Speed: 130.10 km/h
+###########
+
+12:44:50
+Vehicle 6
+Speed: 55.42 km/h
+###########
+
+12:44:50
+Vehicle 14
+Speed: 100.02 km/h
+###########
+
+12:44:50
+Vehicle 15
+Speed: 216.53 km/h
+###########
+
+12:44:50
+Vehicle 17
+Speed: 224.74 km/h
+###########
+
+12:44:51
+Vehicle 1
+Speed: 214.90 km/h
+###########
+
+12:44:51
+Vehicle 2
+Speed: 143.92 km/h
+###########
+
+12:44:51
+Vehicle 3
+Speed: 184.39 km/h
+###########
+
+12:44:51
+Vehicle 4
+Speed: 133.11 km/h
+###########
+
+12:44:51
+Vehicle 6
+Speed: 64.69 km/h
+###########
+
+12:44:51
+Vehicle 14
+Speed: 190.32 km/h
+###########
+
+12:44:51
+Vehicle 15
+Speed: 225.91 km/h
+###########
+
+12:44:51
+Vehicle 17
+Speed: 205.56 km/h
+###########
+
+12:44:51
+Vehicle 1
+Speed: 227.89 km/h
+###########
+
+12:44:51
+Vehicle 2
+Speed: 144.53 km/h
+###########
+
+12:44:51
+Vehicle 3
+Speed: 187.38 km/h
+###########
+
+12:44:51
+Vehicle 4
+Speed: 125.30 km/h
+###########
+
+12:44:51
+Vehicle 6
+Speed: 60.64 km/h
+###########
+
+12:44:51
+Vehicle 14
+Speed: 183.56 km/h
+###########
+
+12:44:51
+Vehicle 15
+Speed: 209.99 km/h
+###########
+
+12:44:51
+Vehicle 17
+Speed: 177.26 km/h
+###########
+
+12:44:52
+Vehicle 1
+Speed: 215.50 km/h
+###########
+
+12:44:52
+Vehicle 2
+Speed: 149.87 km/h
+###########
+
+12:44:52
+Vehicle 3
+Speed: 184.94 km/h
+###########
+
+12:44:52
+Vehicle 4
+Speed: 139.41 km/h
+###########
+
+12:44:52
+Vehicle 6
+Speed: 68.70 km/h
+###########
+
+12:44:52
+Vehicle 14
+Speed: 179.44 km/h
+###########
+
+12:44:52
+Vehicle 15
+Speed: 214.33 km/h
+###########
+
+12:44:52
+Vehicle 17
+Speed: 183.59 km/h
+###########
+
+12:44:52
+Vehicle 1
+Speed: 227.57 km/h
+###########
+
+12:44:52
+Vehicle 2
+Speed: 145.94 km/h
+###########
+
+12:44:52
+Vehicle 3
+Speed: 185.52 km/h
+###########
+
+12:44:52
+Vehicle 4
+Speed: 141.88 km/h
+###########
+
+12:44:52
+Vehicle 6
+Speed: 64.88 km/h
+###########
+
+12:44:52
+Vehicle 14
+Speed: 176.84 km/h
+###########
+
+12:44:52
+Vehicle 15
+Speed: 216.83 km/h
+###########
+
+12:44:52
+Vehicle 17
+Speed: 185.23 km/h
+###########
+
+12:44:53
+Vehicle 1
+Speed: 216.52 km/h
+###########
+
+12:44:53
+Vehicle 2
+Speed: 142.33 km/h
+###########
+
+12:44:53
+Vehicle 3
+Speed: 183.71 km/h
+###########
+
+12:44:53
+Vehicle 4
+Speed: 145.15 km/h
+###########
+
+12:44:53
+Vehicle 6
+Speed: 217.70 km/h
+###########
+
+12:44:53
+Vehicle 14
+Speed: 175.19 km/h
+###########
+
+12:44:53
+Vehicle 15
+Speed: 216.92 km/h
+###########
+
+12:44:53
+Vehicle 17
+Speed: 185.05 km/h
+###########
+
+12:44:53
+Vehicle 1
+Speed: 228.88 km/h
+###########
+
+12:44:53
+Vehicle 2
+Speed: 143.20 km/h
+###########
+
+12:44:53
+Vehicle 3
+Speed: 182.20 km/h
+###########
+
+12:44:53
+Vehicle 4
+Speed: 146.74 km/h
+###########
+
+12:44:53
+Vehicle 6
+Speed: 219.99 km/h
+###########
+
+12:44:53
+Vehicle 14
+Speed: 174.19 km/h
+###########
+
+12:44:53
+Vehicle 15
+Speed: 216.45 km/h
+###########
+
+12:44:53
+Vehicle 17
+Speed: 180.44 km/h
+###########
+
+12:44:54
+Vehicle 1
+Speed: 239.29 km/h
+###########
+
+12:44:54
+Vehicle 2
+Speed: 144.29 km/h
+###########
+
+12:44:54
+Vehicle 3
+Speed: 186.39 km/h
+###########
+
+12:44:54
+Vehicle 4
+Speed: 140.15 km/h
+###########
+
+12:44:54
+Vehicle 6
+Speed: 221.86 km/h
+###########
+
+12:44:54
+Vehicle 14
+Speed: 157.53 km/h
+###########
+
+12:44:54
+Vehicle 15
+Speed: 215.36 km/h
+###########
+
+12:44:54
+Vehicle 17
+Speed: 179.19 km/h
+###########
+
+12:44:55
+Vehicle 1
+Speed: 229.22 km/h
+###########
+
+12:44:55
+Vehicle 2
+Speed: 149.50 km/h
+###########
+
+12:44:55
+Vehicle 3
+Speed: 185.48 km/h
+###########
+
+12:44:55
+Vehicle 4
+Speed: 142.24 km/h
+###########
+
+12:44:55
+Vehicle 6
+Speed: 224.23 km/h
+###########
+
+12:44:55
+Vehicle 14
+Speed: 174.68 km/h
+###########
+
+12:44:55
+Vehicle 15
+Speed: 213.88 km/h
+###########
+
+12:44:55
+Vehicle 17
+Speed: 179.90 km/h
+###########
+
+12:44:55
+Vehicle 1
+Speed: 220.01 km/h
+###########
+
+12:44:55
+Vehicle 2
+Speed: 146.54 km/h
+###########
+
+12:44:55
+Vehicle 3
+Speed: 187.42 km/h
+###########
+
+12:44:55
+Vehicle 4
+Speed: 144.29 km/h
+###########
+
+12:44:55
+Vehicle 6
+Speed: 226.21 km/h
+###########
+
+12:44:55
+Vehicle 14
+Speed: 174.11 km/h
+###########
+
+12:44:55
+Vehicle 15
+Speed: 218.18 km/h
+###########
+
+12:44:55
+Vehicle 17
+Speed: 179.49 km/h
+###########
+
+12:44:56
+Vehicle 1
+Speed: 229.95 km/h
+###########
+
+12:44:56
+Vehicle 2
+Speed: 147.82 km/h
+###########
+
+12:44:56
+Vehicle 3
+Speed: 184.46 km/h
+###########
+
+12:44:56
+Vehicle 4
+Speed: 138.63 km/h
+###########
+
+12:44:56
+Vehicle 6
+Speed: 228.24 km/h
+###########
+
+12:44:56
+Vehicle 14
+Speed: 174.31 km/h
+###########
+
+12:44:56
+Vehicle 15
+Speed: 215.60 km/h
+###########
+
+12:44:56
+Vehicle 17
+Speed: 176.82 km/h
+###########
+
+12:44:56
+Vehicle 22
+Speed: 0.00 km/h
+###########
+
+12:44:56
+Vehicle 1
+Speed: 221.47 km/h
+###########
+
+12:44:57
+Vehicle 2
+Speed: 145.51 km/h
+###########
+
+12:44:57
+Vehicle 3
+Speed: 186.73 km/h
+###########
+
+12:44:57
+Vehicle 4
+Speed: 133.77 km/h
+###########
+
+12:44:57
+Vehicle 6
+Speed: 230.74 km/h
+###########
+
+12:44:57
+Vehicle 14
+Speed: 174.68 km/h
+###########
+
+12:44:57
+Vehicle 15
+Speed: 213.16 km/h
+###########
+
+12:44:57
+Vehicle 17
+Speed: 175.72 km/h
+###########
+
+12:44:57
+Vehicle 22
+Speed: 172.71 km/h
+###########
+
+12:44:57
+Vehicle 1
+Speed: 231.03 km/h
+###########
+
+12:44:57
+Vehicle 2
+Speed: 143.30 km/h
+###########
+
+12:44:57
+Vehicle 3
+Speed: 184.35 km/h
+###########
+
+12:44:57
+Vehicle 4
+Speed: 136.01 km/h
+###########
+
+12:44:57
+Vehicle 6
+Speed: 232.88 km/h
+###########
+
+12:44:57
+Vehicle 14
+Speed: 175.20 km/h
+###########
+
+12:44:57
+Vehicle 15
+Speed: 218.61 km/h
+###########
+
+12:44:57
+Vehicle 17
+Speed: 175.62 km/h
+###########
+
+12:44:57
+Vehicle 22
+Speed: 200.78 km/h
+###########
+
+12:44:58
+Vehicle 1
+Speed: 223.15 km/h
+###########
+
+12:44:58
+Vehicle 2
+Speed: 141.41 km/h
+###########
+
+12:44:58
+Vehicle 3
+Speed: 182.16 km/h
+###########
+
+12:44:58
+Vehicle 4
+Speed: 138.21 km/h
+###########
+
+12:44:58
+Vehicle 6
+Speed: 235.07 km/h
+###########
+
+12:44:58
+Vehicle 14
+Speed: 175.83 km/h
+###########
+
+12:44:58
+Vehicle 15
+Speed: 219.02 km/h
+###########
+
+12:44:58
+Vehicle 17
+Speed: 176.16 km/h
+###########
+
+12:44:58
+Vehicle 22
+Speed: 196.67 km/h
+###########
+
+12:44:58
+Vehicle 1
+Speed: 215.84 km/h
+###########
+
+12:44:58
+Vehicle 2
+Speed: 146.70 km/h
+###########
+
+12:44:58
+Vehicle 3
+Speed: 182.77 km/h
+###########
+
+12:44:58
+Vehicle 4
+Speed: 133.59 km/h
+###########
+
+12:44:58
+Vehicle 6
+Speed: 237.71 km/h
+###########
+
+12:44:58
+Vehicle 14
+Speed: 165.98 km/h
+###########
+
+12:44:58
+Vehicle 15
+Speed: 222.10 km/h
+###########
+
+12:44:58
+Vehicle 17
+Speed: 175.00 km/h
+###########
+
+12:44:58
+Vehicle 22
+Speed: 185.82 km/h
+###########
+
+12:44:59
+Vehicle 1
+Speed: 209.03 km/h
+###########
+
+12:44:59
+Vehicle 2
+Speed: 148.46 km/h
+###########
+
+12:44:59
+Vehicle 3
+Speed: 183.46 km/h
+###########
+
+12:44:59
+Vehicle 4
+Speed: 135.58 km/h
+###########
+
+12:44:59
+Vehicle 6
+Speed: 240.02 km/h
+###########
+
+12:44:59
+Vehicle 14
+Speed: 167.22 km/h
+###########
+
+12:44:59
+Vehicle 15
+Speed: 218.20 km/h
+###########
+
+12:44:59
+Vehicle 17
+Speed: 171.43 km/h
+###########
+
+12:44:59
+Vehicle 22
+Speed: 189.30 km/h
+###########
+
+12:45:00
+Vehicle 1
+Speed: 217.56 km/h
+###########
+
+12:45:00
+Vehicle 2
+Speed: 150.14 km/h
+###########
+
+12:45:00
+Vehicle 3
+Speed: 184.23 km/h
+###########
+
+12:45:00
+Vehicle 4
+Speed: 138.02 km/h
+###########
+
+12:45:00
+Vehicle 6
+Speed: 253.74 km/h
+###########
+
+12:45:00
+Vehicle 14
+Speed: 168.49 km/h
+###########
+
+12:45:00
+Vehicle 15
+Speed: 220.07 km/h
+###########
+
+12:45:00
+Vehicle 17
+Speed: 175.37 km/h
+###########
+
+12:45:00
+Vehicle 22
+Speed: 181.33 km/h
+###########
+
+12:45:00
+Vehicle 1
+Speed: 211.15 km/h
+###########
+
+12:45:00
+Vehicle 2
+Speed: 151.99 km/h
+###########
+
+12:45:00
+Vehicle 3
+Speed: 185.15 km/h
+###########
+
+12:45:00
+Vehicle 4
+Speed: 134.15 km/h
+###########
+
+12:45:00
+Vehicle 6
+Speed: 256.03 km/h
+###########
+
+12:45:00
+Vehicle 14
+Speed: 169.45 km/h
+###########
+
+12:45:00
+Vehicle 15
+Speed: 218.59 km/h
+###########
+
+12:45:00
+Vehicle 17
+Speed: 175.55 km/h
+###########
+
+12:45:00
+Vehicle 22
+Speed: 178.76 km/h
+###########
+
+12:45:01
+Vehicle 1
+Speed: 220.00 km/h
+###########
+
+12:45:01
+Vehicle 2
+Speed: 150.37 km/h
+###########
+
+12:45:01
+Vehicle 3
+Speed: 183.78 km/h
+###########
+
+12:45:01
+Vehicle 4
+Speed: 136.36 km/h
+###########
+
+12:45:01
+Vehicle 6
+Speed: 258.78 km/h
+###########
+
+12:45:01
+Vehicle 14
+Speed: 170.79 km/h
+###########
+
+12:45:01
+Vehicle 15
+Speed: 214.62 km/h
+###########
+
+12:45:01
+Vehicle 17
+Speed: 175.89 km/h
+###########
+
+12:45:01
+Vehicle 22
+Speed: 179.01 km/h
+###########
+
+12:45:01
+Vehicle 25
+Speed: 0.00 km/h
+###########
+
+12:45:02
+Vehicle 1
+Speed: 213.91 km/h
+###########
+
+12:45:02
+Vehicle 2
+Speed: 152.22 km/h
+###########
+
+12:45:02
+Vehicle 3
+Speed: 187.43 km/h
+###########
+
+12:45:02
+Vehicle 4
+Speed: 132.51 km/h
+###########
+
+12:45:02
+Vehicle 6
+Speed: 251.35 km/h
+###########
+
+12:45:02
+Vehicle 14
+Speed: 172.16 km/h
+###########
+
+12:45:02
+Vehicle 15
+Speed: 213.09 km/h
+###########
+
+12:45:02
+Vehicle 17
+Speed: 175.72 km/h
+###########
+
+12:45:02
+Vehicle 22
+Speed: 178.53 km/h
+###########
+
+12:45:02
+Vehicle 25
+Speed: 104.68 km/h
+###########
+
+12:45:02
+Vehicle 1
+Speed: 207.62 km/h
+###########
+
+12:45:02
+Vehicle 2
+Speed: 150.79 km/h
+###########
+
+12:45:02
+Vehicle 3
+Speed: 186.41 km/h
+###########
+
+12:45:02
+Vehicle 4
+Speed: 134.52 km/h
+###########
+
+12:45:02
+Vehicle 6
+Speed: 253.94 km/h
+###########
+
+12:45:02
+Vehicle 14
+Speed: 173.57 km/h
+###########
+
+12:45:02
+Vehicle 15
+Speed: 219.16 km/h
+###########
+
+12:45:02
+Vehicle 17
+Speed: 175.69 km/h
+###########
+
+12:45:02
+Vehicle 22
+Speed: 177.34 km/h
+###########
+
+12:45:02
+Vehicle 25
+Speed: 104.04 km/h
+###########
+
+12:45:03
+Vehicle 1
+Speed: 202.24 km/h
+###########
+
+12:45:03
+Vehicle 2
+Speed: 149.49 km/h
+###########
+
+12:45:03
+Vehicle 3
+Speed: 187.82 km/h
+###########
+
+12:45:03
+Vehicle 4
+Speed: 136.73 km/h
+###########
+
+12:45:03
+Vehicle 6
+Speed: 256.59 km/h
+###########
+
+12:45:03
+Vehicle 14
+Speed: 174.69 km/h
+###########
+
+12:45:03
+Vehicle 15
+Speed: 220.33 km/h
+###########
+
+12:45:03
+Vehicle 17
+Speed: 175.56 km/h
+###########
+
+12:45:03
+Vehicle 22
+Speed: 179.64 km/h
+###########
+
+12:45:03
+Vehicle 25
+Speed: 205.30 km/h
+###########
+
+12:45:04
+Vehicle 1
+Speed: 210.20 km/h
+###########
+
+12:45:04
+Vehicle 2
+Speed: 151.60 km/h
+###########
+
+12:45:04
+Vehicle 3
+Speed: 187.15 km/h
+###########
+
+12:45:04
+Vehicle 4
+Speed: 133.19 km/h
+###########
+
+12:45:04
+Vehicle 6
+Speed: 259.66 km/h
+###########
+
+12:45:04
+Vehicle 14
+Speed: 176.16 km/h
+###########
+
+12:45:04
+Vehicle 15
+Speed: 219.33 km/h
+###########
+
+12:45:04
+Vehicle 17
+Speed: 175.41 km/h
+###########
+
+12:45:04
+Vehicle 22
+Speed: 175.73 km/h
+###########
+
+12:45:04
+Vehicle 25
+Speed: 203.12 km/h
+###########
+
+12:45:04
+Vehicle 1
+Speed: 204.52 km/h
+###########
+
+12:45:04
+Vehicle 2
+Speed: 147.66 km/h
+###########
+
+12:45:04
+Vehicle 3
+Speed: 184.31 km/h
+###########
+
+12:45:04
+Vehicle 4
+Speed: 135.41 km/h
+###########
+
+12:45:04
+Vehicle 6
+Speed: 262.45 km/h
+###########
+
+12:45:04
+Vehicle 14
+Speed: 177.65 km/h
+###########
+
+12:45:04
+Vehicle 15
+Speed: 219.61 km/h
+###########
+
+12:45:04
+Vehicle 17
+Speed: 174.83 km/h
+###########
+
+12:45:04
+Vehicle 22
+Speed: 175.05 km/h
+###########
+
+12:45:04
+Vehicle 25
+Speed: 182.12 km/h
+###########
+
+12:45:05
+Vehicle 1
+Speed: 212.34 km/h
+###########
+
+12:45:05
+Vehicle 2
+Speed: 146.74 km/h
+###########
+
+12:45:05
+Vehicle 3
+Speed: 186.22 km/h
+###########
+
+12:45:05
+Vehicle 4
+Speed: 137.61 km/h
+###########
+
+12:45:05
+Vehicle 6
+Speed: 265.66 km/h
+###########
+
+12:45:05
+Vehicle 14
+Speed: 179.18 km/h
+###########
+
+12:45:05
+Vehicle 15
+Speed: 219.49 km/h
+###########
+
+12:45:05
+Vehicle 17
+Speed: 174.64 km/h
+###########
+
+12:45:05
+Vehicle 22
+Speed: 176.70 km/h
+###########
+
+12:45:05
+Vehicle 25
+Speed: 199.15 km/h
+###########
+
+12:45:05
+Vehicle 1
+Speed: 206.89 km/h
+###########
+
+12:45:05
+Vehicle 2
+Speed: 145.91 km/h
+###########
+
+12:45:05
+Vehicle 3
+Speed: 183.64 km/h
+###########
+
+12:45:05
+Vehicle 4
+Speed: 134.58 km/h
+###########
+
+12:45:05
+Vehicle 6
+Speed: 278.93 km/h
+###########
+
+12:45:05
+Vehicle 14
+Speed: 180.73 km/h
+###########
+
+12:45:05
+Vehicle 15
+Speed: 219.00 km/h
+###########
+
+12:45:05
+Vehicle 17
+Speed: 172.09 km/h
+###########
+
+12:45:05
+Vehicle 22
+Speed: 175.04 km/h
+###########
+
+12:45:05
+Vehicle 25
+Speed: 197.28 km/h
+###########
+
+12:45:06
+Vehicle 1
+Speed: 214.60 km/h
+###########
+
+12:45:06
+Vehicle 2
+Speed: 145.16 km/h
+###########
+
+12:45:06
+Vehicle 3
+Speed: 185.77 km/h
+###########
+
+12:45:06
+Vehicle 4
+Speed: 136.79 km/h
+###########
+
+12:45:06
+Vehicle 6
+Speed: 282.28 km/h
+###########
+
+12:45:06
+Vehicle 14
+Speed: 182.32 km/h
+###########
+
+12:45:06
+Vehicle 15
+Speed: 219.44 km/h
+###########
+
+12:45:06
+Vehicle 17
+Speed: 169.26 km/h
+###########
+
+12:45:06
+Vehicle 22
+Speed: 174.29 km/h
+###########
+
+12:45:06
+Vehicle 25
+Speed: 183.68 km/h
+###########
+
+12:45:07
+Vehicle 1
+Speed: 209.37 km/h
+###########
+
+12:45:07
+Vehicle 2
+Speed: 144.48 km/h
+###########
+
+12:45:07
+Vehicle 3
+Speed: 185.63 km/h
+###########
+
+12:45:07
+Vehicle 4
+Speed: 138.98 km/h
+###########
+
+12:45:07
+Vehicle 6
+Speed: 285.36 km/h
+###########
+
+12:45:07
+Vehicle 14
+Speed: 183.94 km/h
+###########
+
+12:45:07
+Vehicle 15
+Speed: 218.40 km/h
+###########
+
+12:45:07
+Vehicle 17
+Speed: 166.78 km/h
+###########
+
+12:45:07
+Vehicle 22
+Speed: 174.17 km/h
+###########
+
+12:45:07
+Vehicle 25
+Speed: 183.23 km/h
+###########
+
+12:45:07
+Vehicle 28
+Speed: 0.00 km/h
+###########
+
+12:45:07
+Vehicle 1
+Speed: 204.88 km/h
+###########
+
+12:45:07
+Vehicle 2
+Speed: 146.74 km/h
+###########
+
+12:45:07
+Vehicle 3
+Speed: 185.68 km/h
+###########
+
+12:45:07
+Vehicle 4
+Speed: 135.91 km/h
+###########
+
+12:45:07
+Vehicle 6
+Speed: 288.53 km/h
+###########
+
+12:45:07
+Vehicle 14
+Speed: 178.33 km/h
+###########
+
+12:45:07
+Vehicle 15
+Speed: 219.11 km/h
+###########
+
+12:45:07
+Vehicle 17
+Speed: 164.06 km/h
+###########
+
+12:45:07
+Vehicle 22
+Speed: 174.44 km/h
+###########
+
+12:45:07
+Vehicle 25
+Speed: 215.33 km/h
+###########
+
+12:45:07
+Vehicle 28
+Speed: 82.56 km/h
+###########
+
+12:45:08
+Vehicle 1
+Speed: 200.59 km/h
+###########
+
+12:45:08
+Vehicle 2
+Speed: 146.16 km/h
+###########
+
+12:45:08
+Vehicle 3
+Speed: 188.05 km/h
+###########
+
+12:45:08
+Vehicle 4
+Speed: 138.11 km/h
+###########
+
+12:45:08
+Vehicle 6
+Speed: 292.15 km/h
+###########
+
+12:45:08
+Vehicle 14
+Speed: 179.83 km/h
+###########
+
+12:45:08
+Vehicle 15
+Speed: 219.40 km/h
+###########
+
+12:45:08
+Vehicle 17
+Speed: 161.43 km/h
+###########
+
+12:45:08
+Vehicle 22
+Speed: 174.22 km/h
+###########
+
+12:45:08
+Vehicle 25
+Speed: 210.69 km/h
+###########
+
+12:45:08
+Vehicle 28
+Speed: 158.11 km/h
+###########
+
+12:45:08
+Vehicle 1
+Speed: 196.51 km/h
+###########
+
+12:45:08
+Vehicle 2
+Speed: 145.55 km/h
+###########
+
+12:45:08
+Vehicle 3
+Speed: 185.91 km/h
+###########
+
+12:45:08
+Vehicle 4
+Speed: 140.31 km/h
+###########
+
+12:45:08
+Vehicle 6
+Speed: 295.50 km/h
+###########
+
+12:45:08
+Vehicle 14
+Speed: 181.62 km/h
+###########
+
+12:45:08
+Vehicle 15
+Speed: 218.53 km/h
+###########
+
+12:45:08
+Vehicle 17
+Speed: 159.08 km/h
+###########
+
+12:45:08
+Vehicle 22
+Speed: 174.31 km/h
+###########
+
+12:45:08
+Vehicle 25
+Speed: 206.53 km/h
+###########
+
+12:45:08
+Vehicle 28
+Speed: 151.75 km/h
+###########
+
+12:45:09
+Vehicle 1
+Speed: 192.60 km/h
+###########
+
+12:45:09
+Vehicle 2
+Speed: 145.10 km/h
+###########
+
+12:45:09
+Vehicle 3
+Speed: 183.96 km/h
+###########
+
+12:45:09
+Vehicle 4
+Speed: 137.65 km/h
+###########
+
+12:45:09
+Vehicle 6
+Speed: 298.96 km/h
+###########
+
+12:45:09
+Vehicle 14
+Speed: 183.44 km/h
+###########
+
+12:45:09
+Vehicle 15
+Speed: 218.94 km/h
+###########
+
+12:45:09
+Vehicle 17
+Speed: 156.78 km/h
+###########
+
+12:45:09
+Vehicle 22
+Speed: 173.93 km/h
+###########
+
+12:45:09
+Vehicle 25
+Speed: 208.49 km/h
+###########
+
+12:45:09
+Vehicle 28
+Speed: 160.38 km/h
+###########
+
+12:45:10
+Vehicle 1
+Speed: 188.41 km/h
+###########
+
+12:45:10
+Vehicle 2
+Speed: 147.60 km/h
+###########
+
+12:45:10
+Vehicle 3
+Speed: 184.38 km/h
+###########
+
+12:45:10
+Vehicle 4
+Speed: 139.85 km/h
+###########
+
+12:45:10
+Vehicle 6
+Speed: 302.88 km/h
+###########
+
+12:45:10
+Vehicle 14
+Speed: 185.29 km/h
+###########
+
+12:45:10
+Vehicle 15
+Speed: 218.98 km/h
+###########
+
+12:45:10
+Vehicle 17
+Speed: 154.32 km/h
+###########
+
+12:45:10
+Vehicle 22
+Speed: 173.77 km/h
+###########
+
+12:45:10
+Vehicle 25
+Speed: 214.79 km/h
+###########
+
+12:45:10
+Vehicle 28
+Speed: 162.09 km/h
+###########
+
+12:45:10
+Vehicle 1
+Speed: 195.65 km/h
+###########
+
+12:45:10
+Vehicle 2
+Speed: 147.13 km/h
+###########
+
+12:45:10
+Vehicle 3
+Speed: 184.90 km/h
+###########
+
+12:45:10
+Vehicle 4
+Speed: 137.09 km/h
+###########
+
+12:45:10
+Vehicle 6
+Speed: 296.83 km/h
+###########
+
+12:45:10
+Vehicle 14
+Speed: 187.16 km/h
+###########
+
+12:45:10
+Vehicle 15
+Speed: 218.68 km/h
+###########
+
+12:45:10
+Vehicle 17
+Speed: 151.91 km/h
+###########
+
+12:45:10
+Vehicle 22
+Speed: 173.21 km/h
+###########
+
+12:45:10
+Vehicle 25
+Speed: 214.84 km/h
+###########
+
+12:45:10
+Vehicle 28
+Speed: 163.22 km/h
+###########
+
+12:45:11
+Vehicle 1
+Speed: 203.72 km/h
+###########
+
+12:45:11
+Vehicle 2
+Speed: 146.82 km/h
+###########
+
+12:45:11
+Vehicle 3
+Speed: 185.34 km/h
+###########
+
+12:45:11
+Vehicle 4
+Speed: 139.12 km/h
+###########
+
+12:45:11
+Vehicle 6
+Speed: 300.89 km/h
+###########
+
+12:45:11
+Vehicle 14
+Speed: 189.06 km/h
+###########
+
+12:45:11
+Vehicle 15
+Speed: 218.71 km/h
+###########
+
+12:45:11
+Vehicle 17
+Speed: 149.76 km/h
+###########
+
+12:45:11
+Vehicle 22
+Speed: 172.80 km/h
+###########
+
+12:45:11
+Vehicle 25
+Speed: 218.66 km/h
+###########
+
+12:45:11
+Vehicle 28
+Speed: 168.97 km/h
+###########
+
+12:45:11
+Vehicle 1
+Speed: 211.47 km/h
+###########
+
+12:45:11
+Vehicle 2
+Speed: 149.32 km/h
+###########
+
+12:45:11
+Vehicle 3
+Speed: 186.02 km/h
+###########
+
+12:45:11
+Vehicle 4
+Speed: 141.52 km/h
+###########
+
+12:45:11
+Vehicle 6
+Speed: 315.28 km/h
+###########
+
+12:45:11
+Vehicle 14
+Speed: 190.99 km/h
+###########
+
+12:45:11
+Vehicle 15
+Speed: 218.42 km/h
+###########
+
+12:45:11
+Vehicle 17
+Speed: 147.65 km/h
+###########
+
+12:45:11
+Vehicle 22
+Speed: 169.89 km/h
+###########
+
+12:45:11
+Vehicle 25
+Speed: 213.81 km/h
+###########
+
+12:45:11
+Vehicle 28
+Speed: 172.01 km/h
+###########
+
+12:45:12
+Vehicle 1
+Speed: 207.24 km/h
+###########
+
+12:45:12
+Vehicle 2
+Speed: 149.29 km/h
+###########
+
+12:45:12
+Vehicle 3
+Speed: 186.71 km/h
+###########
+
+12:45:12
+Vehicle 4
+Speed: 139.12 km/h
+###########
+
+12:45:12
+Vehicle 6
+Speed: 319.64 km/h
+###########
+
+12:45:12
+Vehicle 14
+Speed: 192.96 km/h
+###########
+
+12:45:12
+Vehicle 15
+Speed: 217.85 km/h
+###########
+
+12:45:12
+Vehicle 17
+Speed: 145.43 km/h
+###########
+
+12:45:12
+Vehicle 22
+Speed: 167.48 km/h
+###########
+
+12:45:12
+Vehicle 25
+Speed: 212.75 km/h
+###########
+
+12:45:12
+Vehicle 28
+Speed: 157.05 km/h
+###########
+
+12:45:12
+Vehicle 1
+Speed: 214.28 km/h
+###########
+
+12:45:12
+Vehicle 2
+Speed: 149.10 km/h
+###########
+
+12:45:12
+Vehicle 3
+Speed: 189.90 km/h
+###########
+
+12:45:12
+Vehicle 4
+Speed: 141.33 km/h
+###########
+
+12:45:12
+Vehicle 6
+Speed: 323.74 km/h
+###########
+
+12:45:12
+Vehicle 14
+Speed: 194.71 km/h
+###########
+
+12:45:12
+Vehicle 15
+Speed: 217.96 km/h
+###########
+
+12:45:12
+Vehicle 17
+Speed: 143.26 km/h
+###########
+
+12:45:12
+Vehicle 22
+Speed: 171.91 km/h
+###########
+
+12:45:12
+Vehicle 25
+Speed: 208.37 km/h
+###########
+
+12:45:12
+Vehicle 28
+Speed: 160.92 km/h
+###########
+
+12:45:13
+Vehicle 1
+Speed: 210.55 km/h
+###########
+
+12:45:13
+Vehicle 2
+Speed: 148.86 km/h
+###########
+
+12:45:13
+Vehicle 3
+Speed: 190.76 km/h
+###########
+
+12:45:13
+Vehicle 4
+Speed: 138.82 km/h
+###########
+
+12:45:13
+Vehicle 6
+Speed: 327.97 km/h
+###########
+
+12:45:13
+Vehicle 14
+Speed: 196.74 km/h
+###########
+
+12:45:13
+Vehicle 15
+Speed: 217.74 km/h
+###########
+
+12:45:13
+Vehicle 17
+Speed: 141.30 km/h
+###########
+
+12:45:13
+Vehicle 22
+Speed: 171.94 km/h
+###########
+
+12:45:13
+Vehicle 25
+Speed: 207.33 km/h
+###########
+
+12:45:13
+Vehicle 28
+Speed: 156.17 km/h
+###########
+
+12:45:13
+Vehicle 1
+Speed: 206.97 km/h
+###########
+
+12:45:13
+Vehicle 2
+Speed: 148.77 km/h
+###########
+
+12:45:13
+Vehicle 3
+Speed: 191.79 km/h
+###########
+
+12:45:14
+Vehicle 4
+Speed: 140.87 km/h
+###########
+
+12:45:14
+Vehicle 6
+Speed: 332.33 km/h
+###########
+
+12:45:14
+Vehicle 14
+Speed: 198.81 km/h
+###########
+
+12:45:14
+Vehicle 15
+Speed: 217.62 km/h
+###########
+
+12:45:14
+Vehicle 17
+Speed: 139.25 km/h
+###########
+
+12:45:14
+Vehicle 22
+Speed: 169.55 km/h
+###########
+
+12:45:14
+Vehicle 25
+Speed: 214.57 km/h
+###########
+
+12:45:14
+Vehicle 28
+Speed: 154.99 km/h
+###########
+
+12:45:14
+Vehicle 1
+Speed: 203.14 km/h
+###########
+
+12:45:14
+Vehicle 2
+Speed: 151.54 km/h
+###########
+
+12:45:14
+Vehicle 3
+Speed: 188.46 km/h
+###########
+
+12:45:14
+Vehicle 4
+Speed: 138.47 km/h
+###########
+
+12:45:14
+Vehicle 6
+Speed: 337.21 km/h
+###########
+
+12:45:14
+Vehicle 14
+Speed: 200.92 km/h
+###########
+
+12:45:14
+Vehicle 15
+Speed: 217.90 km/h
+###########
+
+12:45:14
+Vehicle 17
+Speed: 137.37 km/h
+###########
+
+12:45:14
+Vehicle 22
+Speed: 171.34 km/h
+###########
+
+12:45:14
+Vehicle 25
+Speed: 215.16 km/h
+###########
+
+12:45:14
+Vehicle 28
+Speed: 158.09 km/h
+###########
+
+12:45:15
+Vehicle 1
+Speed: 199.82 km/h
+###########
+
+12:45:15
+Vehicle 2
+Speed: 151.51 km/h
+###########
+
+12:45:15
+Vehicle 3
+Speed: 189.54 km/h
+###########
+
+12:45:15
+Vehicle 4
+Speed: 140.70 km/h
+###########
+
+12:45:15
+Vehicle 6
+Speed: 341.85 km/h
+###########
+
+12:45:15
+Vehicle 14
+Speed: 203.06 km/h
+###########
+
+12:45:15
+Vehicle 15
+Speed: 217.48 km/h
+###########
+
+12:45:15
+Vehicle 17
+Speed: 135.42 km/h
+###########
+
+12:45:15
+Vehicle 22
+Speed: 171.25 km/h
+###########
+
+12:45:15
+Vehicle 25
+Speed: 215.34 km/h
+###########
+
+12:45:15
+Vehicle 28
+Speed: 162.80 km/h
+###########
+
+12:45:15
+Vehicle 1
+Speed: 196.25 km/h
+###########
+
+12:45:15
+Vehicle 2
+Speed: 151.53 km/h
+###########
+
+12:45:15
+Vehicle 3
+Speed: 190.78 km/h
+###########
+
+12:45:15
+Vehicle 4
+Speed: 142.94 km/h
+###########
+
+12:45:15
+Vehicle 6
+Speed: 347.03 km/h
+###########
+
+12:45:15
+Vehicle 14
+Speed: 205.24 km/h
+###########
+
+12:45:15
+Vehicle 15
+Speed: 217.40 km/h
+###########
+
+12:45:15
+Vehicle 17
+Speed: 133.63 km/h
+###########
+
+12:45:15
+Vehicle 22
+Speed: 171.12 km/h
+###########
+
+12:45:15
+Vehicle 25
+Speed: 215.26 km/h
+###########
+
+12:45:15
+Vehicle 28
+Speed: 166.73 km/h
+###########
+
+12:45:16
+Vehicle 1
+Speed: 193.17 km/h
+###########
+
+12:45:16
+Vehicle 2
+Speed: 151.68 km/h
+###########
+
+12:45:16
+Vehicle 3
+Speed: 192.11 km/h
+###########
+
+12:45:16
+Vehicle 4
+Speed: 140.64 km/h
+###########
+
+12:45:16
+Vehicle 6
+Speed: 351.97 km/h
+###########
+
+12:45:16
+Vehicle 14
+Speed: 207.47 km/h
+###########
+
+12:45:16
+Vehicle 15
+Speed: 217.51 km/h
+###########
+
+12:45:16
+Vehicle 17
+Speed: 131.78 km/h
+###########
+
+12:45:16
+Vehicle 22
+Speed: 170.25 km/h
+###########
+
+12:45:16
+Vehicle 25
+Speed: 216.85 km/h
+###########
+
+12:45:16
+Vehicle 28
+Speed: 172.28 km/h
+###########
+
+12:45:16
+Vehicle 1
+Speed: 189.84 km/h
+###########
+
+12:45:16
+Vehicle 2
+Speed: 151.76 km/h
+###########
+
+12:45:16
+Vehicle 3
+Speed: 193.43 km/h
+###########
+
+12:45:16
+Vehicle 4
+Speed: 142.72 km/h
+###########
+
+12:45:16
+Vehicle 6
+Speed: 357.48 km/h
+###########
+
+12:45:16
+Vehicle 14
+Speed: 209.74 km/h
+###########
+
+12:45:16
+Vehicle 15
+Speed: 217.29 km/h
+###########
+
+12:45:16
+Vehicle 17
+Speed: 130.08 km/h
+###########
+
+12:45:16
+Vehicle 22
+Speed: 170.12 km/h
+###########
+
+12:45:16
+Vehicle 25
+Speed: 217.91 km/h
+###########
+
+12:45:16
+Vehicle 28
+Speed: 177.07 km/h
+###########
+
+12:45:17
+Vehicle 1
+Speed: 195.52 km/h
+###########
+
+12:45:17
+Vehicle 2
+Speed: 151.89 km/h
+###########
+
+12:45:17
+Vehicle 3
+Speed: 194.92 km/h
+###########
+
+12:45:17
+Vehicle 4
+Speed: 144.99 km/h
+###########
+
+12:45:17
+Vehicle 6
+Speed: 362.74 km/h
+###########
+
+12:45:17
+Vehicle 14
+Speed: 211.81 km/h
+###########
+
+12:45:17
+Vehicle 15
+Speed: 215.20 km/h
+###########
+
+12:45:17
+Vehicle 17
+Speed: 128.31 km/h
+###########
+
+12:45:17
+Vehicle 22
+Speed: 167.73 km/h
+###########
+
+12:45:17
+Vehicle 25
+Speed: 216.79 km/h
+###########
+
+12:45:17
+Vehicle 28
+Speed: 182.36 km/h
+###########
+
+12:45:17
+Vehicle 1
+Speed: 192.26 km/h
+###########
+
+12:45:17
+Vehicle 2
+Speed: 152.05 km/h
+###########
+
+12:45:17
+Vehicle 3
+Speed: 196.50 km/h
+###########
+
+12:45:17
+Vehicle 4
+Speed: 142.77 km/h
+###########
+
+12:45:17
+Vehicle 6
+Speed: 368.19 km/h
+###########
+
+12:45:17
+Vehicle 14
+Speed: 214.17 km/h
+###########
+
+12:45:17
+Vehicle 15
+Speed: 216.97 km/h
+###########
+
+12:45:17
+Vehicle 17
+Speed: 126.69 km/h
+###########
+
+12:45:17
+Vehicle 22
+Speed: 165.52 km/h
+###########
+
+12:45:17
+Vehicle 25
+Speed: 217.14 km/h
+###########
+
+12:45:17
+Vehicle 28
+Speed: 189.40 km/h
+###########
+
+12:45:18
+Vehicle 1
+Speed: 189.46 km/h
+###########
+
+12:45:18
+Vehicle 2
+Speed: 152.25 km/h
+###########
+
+12:45:18
+Vehicle 3
+Speed: 195.66 km/h
+###########
+
+12:45:18
+Vehicle 4
+Speed: 145.05 km/h
+###########
+
+12:45:18
+Vehicle 6
+Speed: 374.24 km/h
+###########
+
+12:45:18
+Vehicle 14
+Speed: 216.58 km/h
+###########
+
+12:45:18
+Vehicle 15
+Speed: 217.14 km/h
+###########
+
+12:45:18
+Vehicle 17
+Speed: 125.01 km/h
+###########
+
+12:45:18
+Vehicle 22
+Speed: 163.18 km/h
+###########
+
+12:45:18
+Vehicle 25
+Speed: 217.16 km/h
+###########
+
+12:45:18
+Vehicle 28
+Speed: 208.28 km/h
+###########
+
+12:45:18
+Vehicle 1
+Speed: 186.40 km/h
+###########
+
+12:45:18
+Vehicle 2
+Speed: 152.48 km/h
+###########
+
+12:45:18
+Vehicle 3
+Speed: 197.29 km/h
+###########
+
+12:45:18
+Vehicle 4
+Speed: 147.35 km/h
+###########
+
+12:45:18
+Vehicle 6
+Speed: 380.05 km/h
+###########
+
+12:45:18
+Vehicle 14
+Speed: 219.04 km/h
+###########
+
+12:45:18
+Vehicle 15
+Speed: 214.99 km/h
+###########
+
+12:45:18
+Vehicle 17
+Speed: 123.46 km/h
+###########
+
+12:45:18
+Vehicle 22
+Speed: 161.00 km/h
+###########
+
+12:45:18
+Vehicle 25
+Speed: 215.51 km/h
+###########
+
+12:45:18
+Vehicle 28
+Speed: 207.35 km/h
+###########
+
+12:45:19
+Vehicle 1
+Speed: 183.78 km/h
+###########
+
+12:45:19
+Vehicle 2
+Speed: 152.74 km/h
+###########
+
+12:45:19
+Vehicle 3
+Speed: 199.10 km/h
+###########
+
+12:45:19
+Vehicle 4
+Speed: 145.20 km/h
+###########
+
+12:45:19
+Vehicle 6
+Speed: 386.07 km/h
+###########
+
+12:45:19
+Vehicle 14
+Speed: 215.10 km/h
+###########
+
+12:45:19
+Vehicle 15
+Speed: 216.81 km/h
+###########
+
+12:45:19
+Vehicle 17
+Speed: 121.86 km/h
+###########
+
+12:45:19
+Vehicle 22
+Speed: 158.72 km/h
+###########
+
+12:45:19
+Vehicle 25
+Speed: 213.83 km/h
+###########
+
+12:45:19
+Vehicle 28
+Speed: 207.94 km/h
+###########
+
+12:45:19
+Vehicle 33
+Speed: 0.00 km/h
+###########
+
+12:45:19
+Vehicle 1
+Speed: 180.90 km/h
+###########
+
+12:45:19
+Vehicle 2
+Speed: 155.86 km/h
+###########
+
+12:45:19
+Vehicle 3
+Speed: 201.00 km/h
+###########
+
+12:45:19
+Vehicle 4
+Speed: 147.35 km/h
+###########
+
+12:45:19
+Vehicle 6
+Speed: 392.75 km/h
+###########
+
+12:45:19
+Vehicle 14
+Speed: 217.63 km/h
+###########
+
+12:45:19
+Vehicle 15
+Speed: 216.96 km/h
+###########
+
+12:45:19
+Vehicle 17
+Speed: 120.38 km/h
+###########
+
+12:45:19
+Vehicle 22
+Speed: 156.50 km/h
+###########
+
+12:45:19
+Vehicle 25
+Speed: 216.92 km/h
+###########
+
+12:45:19
+Vehicle 28
+Speed: 200.77 km/h
+###########
+
+12:45:19
+Vehicle 33
+Speed: 226.09 km/h
+###########
+
+12:45:20
+Vehicle 1
+Speed: 178.44 km/h
+###########
+
+12:45:20
+Vehicle 2
+Speed: 156.19 km/h
+###########
+
+12:45:20
+Vehicle 3
+Speed: 205.65 km/h
+###########
+
+12:45:20
+Vehicle 4
+Speed: 149.68 km/h
+###########
+
+12:45:20
+Vehicle 6
+Speed: 399.20 km/h
+###########
+
+12:45:20
+Vehicle 14
+Speed: 220.22 km/h
+###########
+
+12:45:20
+Vehicle 15
+Speed: 217.03 km/h
+###########
+
+12:45:20
+Vehicle 17
+Speed: 118.86 km/h
+###########
+
+12:45:20
+Vehicle 22
+Speed: 154.40 km/h
+###########
+
+12:45:20
+Vehicle 25
+Speed: 217.03 km/h
+###########
+
+12:45:20
+Vehicle 28
+Speed: 201.17 km/h
+###########
+
+12:45:20
+Vehicle 33
+Speed: 191.32 km/h
+###########
+
+12:45:20
+Vehicle 1
+Speed: 175.74 km/h
+###########
+
+12:45:20
+Vehicle 2
+Speed: 156.56 km/h
+###########
+
+12:45:20
+Vehicle 3
+Speed: 217.68 km/h
+###########
+
+12:45:20
+Vehicle 4
+Speed: 147.60 km/h
+###########
+
+12:45:20
+Vehicle 6
+Speed: 406.35 km/h
+###########
+
+12:45:20
+Vehicle 15
+Speed: 216.98 km/h
+###########
+
+12:45:20
+Vehicle 17
+Speed: 117.44 km/h
+###########
+
+12:45:20
+Vehicle 22
+Speed: 152.34 km/h
+###########
+
+12:45:20
+Vehicle 25
+Speed: 217.88 km/h
+###########
+
+12:45:20
+Vehicle 28
+Speed: 202.03 km/h
+###########
+
+12:45:20
+Vehicle 33
+Speed: 168.09 km/h
+###########
+
+12:45:21
+Vehicle 1
+Speed: 173.43 km/h
+###########
+
+12:45:21
+Vehicle 2
+Speed: 156.86 km/h
+###########
+
+12:45:21
+Vehicle 3
+Speed: 216.72 km/h
+###########
+
+12:45:21
+Vehicle 4
+Speed: 149.79 km/h
+###########
+
+12:45:21
+Vehicle 6
+Speed: 413.29 km/h
+###########
+
+12:45:21
+Vehicle 15
+Speed: 216.70 km/h
+###########
+
+12:45:21
+Vehicle 17
+Speed: 115.99 km/h
+###########
+
+12:45:21
+Vehicle 22
+Speed: 150.23 km/h
+###########
+
+12:45:21
+Vehicle 25
+Speed: 218.34 km/h
+###########
+
+12:45:21
+Vehicle 28
+Speed: 203.26 km/h
+###########
+
+12:45:21
+Vehicle 33
+Speed: 155.45 km/h
+###########
+
+12:45:22
+Vehicle 1
+Speed: 170.88 km/h
+###########
+
+12:45:22
+Vehicle 2
+Speed: 157.28 km/h
+###########
+
+12:45:22
+Vehicle 3
+Speed: 215.83 km/h
+###########
+
+12:45:22
+Vehicle 4
+Speed: 152.33 km/h
+###########
+
+12:45:22
+Vehicle 6
+Speed: 420.96 km/h
+###########
+
+12:45:22
+Vehicle 15
+Speed: 214.53 km/h
+###########
+
+12:45:22
+Vehicle 17
+Speed: 114.57 km/h
+###########
+
+12:45:22
+Vehicle 22
+Speed: 148.16 km/h
+###########
+
+12:45:22
+Vehicle 25
+Speed: 217.62 km/h
+###########
+
+12:45:22
+Vehicle 28
+Speed: 195.97 km/h
+###########
+
+12:45:22
+Vehicle 33
+Speed: 164.72 km/h
+###########
+
+12:45:22
+Vehicle 1
+Speed: 168.71 km/h
+###########
+
+12:45:22
+Vehicle 2
+Speed: 157.74 km/h
+###########
+
+12:45:22
+Vehicle 3
+Speed: 215.00 km/h
+###########
+
+12:45:22
+Vehicle 4
+Speed: 150.50 km/h
+###########
+
+12:45:22
+Vehicle 6
+Speed: 428.43 km/h
+###########
+
+12:45:22
+Vehicle 15
+Speed: 212.35 km/h
+###########
+
+12:45:22
+Vehicle 17
+Speed: 113.25 km/h
+###########
+
+12:45:22
+Vehicle 22
+Speed: 146.20 km/h
+###########
+
+12:45:22
+Vehicle 25
+Speed: 217.52 km/h
+###########
+
+12:45:22
+Vehicle 28
+Speed: 196.83 km/h
+###########
+
+12:45:22
+Vehicle 33
+Speed: 160.24 km/h
+###########
+
+12:45:22
+Vehicle 1
+Speed: 166.30 km/h
+###########
+
+12:45:22
+Vehicle 2
+Speed: 158.23 km/h
+###########
+
+12:45:22
+Vehicle 3
+Speed: 214.31 km/h
+###########
+
+12:45:22
+Vehicle 15
+Speed: 210.16 km/h
+###########
+
+12:45:22
+Vehicle 17
+Speed: 111.95 km/h
+###########
+
+12:45:22
+Vehicle 22
+Speed: 144.22 km/h
+###########
+
+12:45:23
+Vehicle 25
+Speed: 217.93 km/h
+###########
+
+12:45:23
+Vehicle 28
+Speed: 198.02 km/h
+###########
+
+12:45:23
+Vehicle 33
+Speed: 156.18 km/h
+###########
+
+12:45:23
+Vehicle 1
+Speed: 164.25 km/h
+###########
+
+12:45:23
+Vehicle 2
+Speed: 161.65 km/h
+###########
+
+12:45:23
+Vehicle 3
+Speed: 213.67 km/h
+###########
+
+12:45:23
+Vehicle 15
+Speed: 207.97 km/h
+###########
+
+12:45:23
+Vehicle 17
+Speed: 110.63 km/h
+###########
+
+12:45:23
+Vehicle 22
+Speed: 142.34 km/h
+###########
+
+12:45:23
+Vehicle 25
+Speed: 217.36 km/h
+###########
+
+12:45:23
+Vehicle 28
+Speed: 199.51 km/h
+###########
+
+12:45:23
+Vehicle 33
+Speed: 159.08 km/h
+###########
+
+12:45:23
+Vehicle 1
+Speed: 161.97 km/h
+###########
+
+12:45:23
+Vehicle 2
+Speed: 162.21 km/h
+###########
+
+12:45:23
+Vehicle 3
+Speed: 215.43 km/h
+###########
+
+12:45:23
+Vehicle 15
+Speed: 205.79 km/h
+###########
+
+12:45:23
+Vehicle 17
+Speed: 109.34 km/h
+###########
+
+12:45:23
+Vehicle 22
+Speed: 140.43 km/h
+###########
+
+12:45:23
+Vehicle 25
+Speed: 217.19 km/h
+###########
+
+12:45:23
+Vehicle 28
+Speed: 201.36 km/h
+###########
+
+12:45:24
+Vehicle 33
+Speed: 157.84 km/h
+###########
+
+12:45:24
+Vehicle 1
+Speed: 160.04 km/h
+###########
+
+12:45:24
+Vehicle 2
+Speed: 162.80 km/h
+###########
+
+12:45:24
+Vehicle 3
+Speed: 214.82 km/h
+###########
+
+12:45:24
+Vehicle 15
+Speed: 203.63 km/h
+###########
+
+12:45:24
+Vehicle 17
+Speed: 108.12 km/h
+###########
+
+12:45:24
+Vehicle 22
+Speed: 138.57 km/h
+###########
+
+12:45:24
+Vehicle 25
+Speed: 217.41 km/h
+###########
+
+12:45:24
+Vehicle 28
+Speed: 201.06 km/h
+###########
+
+12:45:24
+Vehicle 33
+Speed: 158.62 km/h
+###########
+
+12:45:25
+Vehicle 1
+Speed: 157.88 km/h
+###########
+
+12:45:25
+Vehicle 2
+Speed: 168.98 km/h
+###########
+
+12:45:25
+Vehicle 3
+Speed: 214.27 km/h
+###########
+
+12:45:25
+Vehicle 15
+Speed: 201.48 km/h
+###########
+
+12:45:25
+Vehicle 17
+Speed: 106.94 km/h
+###########
+
+12:45:25
+Vehicle 22
+Speed: 136.80 km/h
+###########
+
+12:45:25
+Vehicle 25
+Speed: 217.32 km/h
+###########
+
+12:45:25
+Vehicle 28
+Speed: 200.81 km/h
+###########
+
+12:45:25
+Vehicle 33
+Speed: 156.64 km/h
+###########
+
+12:45:25
+Vehicle 1
+Speed: 212.51 km/h
+###########
+
+12:45:25
+Vehicle 2
+Speed: 166.84 km/h
+###########
+
+12:45:25
+Vehicle 3
+Speed: 216.24 km/h
+###########
+
+12:45:25
+Vehicle 15
+Speed: 199.39 km/h
+###########
+
+12:45:25
+Vehicle 17
+Speed: 105.73 km/h
+###########
+
+12:45:25
+Vehicle 22
+Speed: 135.02 km/h
+###########
+
+12:45:25
+Vehicle 25
+Speed: 217.00 km/h
+###########
+
+12:45:25
+Vehicle 28
+Speed: 201.86 km/h
+###########
+
+12:45:25
+Vehicle 33
+Speed: 152.80 km/h
+###########
+
+12:45:26
+Vehicle 1
+Speed: 228.04 km/h
+###########
+
+12:45:26
+Vehicle 2
+Speed: 167.26 km/h
+###########
+
+12:45:26
+Vehicle 3
+Speed: 215.88 km/h
+###########
+
+12:45:26
+Vehicle 15
+Speed: 197.23 km/h
+###########
+
+12:45:26
+Vehicle 17
+Speed: 104.54 km/h
+###########
+
+12:45:26
+Vehicle 22
+Speed: 133.33 km/h
+###########
+
+12:45:26
+Vehicle 25
+Speed: 216.93 km/h
+###########
+
+12:45:26
+Vehicle 28
+Speed: 202.12 km/h
+###########
+
+12:45:26
+Vehicle 33
+Speed: 150.87 km/h
+###########
+
+12:45:26
+Vehicle 1
+Speed: 225.43 km/h
+###########
+
+12:45:26
+Vehicle 2
+Speed: 170.46 km/h
+###########
+
+12:45:26
+Vehicle 3
+Speed: 218.02 km/h
+###########
+
+12:45:26
+Vehicle 15
+Speed: 195.18 km/h
+###########
+
+12:45:26
+Vehicle 17
+Speed: 103.43 km/h
+###########
+
+12:45:26
+Vehicle 22
+Speed: 131.62 km/h
+###########
+
+12:45:26
+Vehicle 25
+Speed: 217.03 km/h
+###########
+
+12:45:26
+Vehicle 28
+Speed: 203.70 km/h
+###########
+
+12:45:26
+Vehicle 33
+Speed: 154.65 km/h
+###########
+
+12:45:27
+Vehicle 1
+Speed: 222.54 km/h
+###########
+
+12:45:27
+Vehicle 2
+Speed: 168.28 km/h
+###########
+
+12:45:27
+Vehicle 3
+Speed: 217.81 km/h
+###########
+
+12:45:27
+Vehicle 15
+Speed: 193.11 km/h
+###########
+
+12:45:27
+Vehicle 17
+Speed: 102.29 km/h
+###########
+
+12:45:27
+Vehicle 22
+Speed: 129.95 km/h
+###########
+
+12:45:27
+Vehicle 25
+Speed: 216.85 km/h
+###########
+
+12:45:27
+Vehicle 28
+Speed: 201.24 km/h
+###########
+
+12:45:27
+Vehicle 33
+Speed: 154.74 km/h
+###########
+
+12:45:27
+Vehicle 1
+Speed: 228.64 km/h
+###########
+
+12:45:27
+Vehicle 2
+Speed: 166.26 km/h
+###########
+
+12:45:27
+Vehicle 3
+Speed: 217.53 km/h
+###########
+
+12:45:27
+Vehicle 15
+Speed: 191.07 km/h
+###########
+
+12:45:27
+Vehicle 17
+Speed: 101.22 km/h
+###########
+
+12:45:27
+Vehicle 22
+Speed: 128.36 km/h
+###########
+
+12:45:27
+Vehicle 25
+Speed: 216.80 km/h
+###########
+
+12:45:27
+Vehicle 28
+Speed: 198.87 km/h
+###########
+
+12:45:27
+Vehicle 33
+Speed: 154.40 km/h
+###########
+
+12:45:28
+Vehicle 1
+Speed: 225.78 km/h
+###########
+
+12:45:28
+Vehicle 2
+Speed: 166.79 km/h
+###########
+
+12:45:28
+Vehicle 3
+Speed: 217.20 km/h
+###########
+
+12:45:28
+Vehicle 15
+Speed: 189.05 km/h
+###########
+
+12:45:28
+Vehicle 17
+Speed: 100.14 km/h
+###########
+
+12:45:28
+Vehicle 22
+Speed: 126.81 km/h
+###########
+
+12:45:28
+Vehicle 25
+Speed: 216.83 km/h
+###########
+
+12:45:28
+Vehicle 28
+Speed: 196.66 km/h
+###########
+
+12:45:28
+Vehicle 33
+Speed: 151.73 km/h
+###########
+
+12:45:28
+Vehicle 1
+Speed: 231.96 km/h
+###########
+
+12:45:28
+Vehicle 2
+Speed: 167.35 km/h
+###########
+
+12:45:28
+Vehicle 3
+Speed: 219.46 km/h
+###########
+
+12:45:28
+Vehicle 15
+Speed: 187.06 km/h
+###########
+
+12:45:28
+Vehicle 17
+Speed: 99.11 km/h
+###########
+
+12:45:28
+Vehicle 22
+Speed: 125.24 km/h
+###########
+
+12:45:28
+Vehicle 25
+Speed: 216.59 km/h
+###########
+
+12:45:29
+Vehicle 28
+Speed: 195.71 km/h
+###########
+
+12:45:29
+Vehicle 33
+Speed: 154.62 km/h
+###########
+
+12:45:29
+Vehicle 1
+Speed: 229.13 km/h
+###########
+
+12:45:29
+Vehicle 2
+Speed: 165.42 km/h
+###########
+
+12:45:29
+Vehicle 3
+Speed: 219.24 km/h
+###########
+
+12:45:29
+Vehicle 15
+Speed: 185.10 km/h
+###########
+
+12:45:29
+Vehicle 17
+Speed: 98.07 km/h
+###########
+
+12:45:29
+Vehicle 22
+Speed: 123.71 km/h
+###########
+
+12:45:29
+Vehicle 25
+Speed: 216.68 km/h
+###########
+
+12:45:29
+Vehicle 28
+Speed: 196.92 km/h
+###########
+
+12:45:29
+Vehicle 33
+Speed: 154.17 km/h
+###########
+
+12:45:29
+Vehicle 1
+Speed: 235.74 km/h
+###########
+
+12:45:29
+Vehicle 2
+Speed: 166.12 km/h
+###########
+
+12:45:29
+Vehicle 3
+Speed: 219.06 km/h
+###########
+
+12:45:29
+Vehicle 15
+Speed: 183.16 km/h
+###########
+
+12:45:29
+Vehicle 17
+Speed: 97.08 km/h
+###########
+
+12:45:29
+Vehicle 22
+Speed: 122.26 km/h
+###########
+
+12:45:29
+Vehicle 25
+Speed: 216.48 km/h
+###########
+
+12:45:29
+Vehicle 28
+Speed: 196.24 km/h
+###########
+
+12:45:29
+Vehicle 33
+Speed: 151.91 km/h
+###########
+
+12:45:30
+Vehicle 1
+Speed: 233.29 km/h
+###########
+
+12:45:30
+Vehicle 2
+Speed: 166.76 km/h
+###########
+
+12:45:30
+Vehicle 3
+Speed: 219.02 km/h
+###########
+
+12:45:30
+Vehicle 15
+Speed: 181.26 km/h
+###########
+
+12:45:30
+Vehicle 17
+Speed: 96.08 km/h
+###########
+
+12:45:30
+Vehicle 22
+Speed: 120.79 km/h
+###########
+
+12:45:30
+Vehicle 25
+Speed: 216.51 km/h
+###########
+
+12:45:30
+Vehicle 28
+Speed: 193.77 km/h
+###########
+
+12:45:30
+Vehicle 33
+Speed: 153.90 km/h
+###########
+
+12:45:30
+Vehicle 1
+Speed: 230.54 km/h
+###########
+
+12:45:30
+Vehicle 2
+Speed: 167.43 km/h
+###########
+
+12:45:30
+Vehicle 3
+Speed: 218.94 km/h
+###########
+
+12:45:30
+Vehicle 15
+Speed: 179.38 km/h
+###########
+
+12:45:30
+Vehicle 17
+Speed: 95.13 km/h
+###########
+
+12:45:30
+Vehicle 22
+Speed: 119.39 km/h
+###########
+
+12:45:30
+Vehicle 25
+Speed: 216.46 km/h
+###########
+
+12:45:30
+Vehicle 28
+Speed: 192.36 km/h
+###########
+
+12:45:30
+Vehicle 33
+Speed: 153.96 km/h
+###########
+
+12:45:31
+Vehicle 1
+Speed: 236.88 km/h
+###########
+
+12:45:31
+Vehicle 2
+Speed: 168.13 km/h
+###########
+
+12:45:31
+Vehicle 3
+Speed: 218.91 km/h
+###########
+
+12:45:31
+Vehicle 15
+Speed: 177.54 km/h
+###########
+
+12:45:31
+Vehicle 17
+Speed: 94.17 km/h
+###########
+
+12:45:31
+Vehicle 22
+Speed: 117.99 km/h
+###########
+
+12:45:31
+Vehicle 25
+Speed: 216.33 km/h
+###########
+
+12:45:31
+Vehicle 28
+Speed: 193.20 km/h
+###########
+
+12:45:31
+Vehicle 33
+Speed: 154.22 km/h
+###########
+
+12:45:31
+Vehicle 1
+Speed: 243.36 km/h
+###########
+
+12:45:31
+Vehicle 2
+Speed: 166.20 km/h
+###########
+
+12:45:31
+Vehicle 3
+Speed: 219.01 km/h
+###########
+
+12:45:31
+Vehicle 15
+Speed: 175.72 km/h
+###########
+
+12:45:31
+Vehicle 17
+Speed: 93.25 km/h
+###########
+
+12:45:31
+Vehicle 22
+Speed: 116.62 km/h
+###########
+
+12:45:31
+Vehicle 25
+Speed: 216.29 km/h
+###########
+
+12:45:31
+Vehicle 28
+Speed: 193.09 km/h
+###########
+
+12:45:31
+Vehicle 33
+Speed: 154.13 km/h
+###########
+
+12:45:32
+Vehicle 1
+Speed: 240.60 km/h
+###########
+
+12:45:32
+Vehicle 2
+Speed: 166.94 km/h
+###########
+
+12:45:32
+Vehicle 3
+Speed: 221.74 km/h
+###########
+
+12:45:32
+Vehicle 15
+Speed: 173.93 km/h
+###########
+
+12:45:32
+Vehicle 17
+Speed: 92.33 km/h
+###########
+
+12:45:32
+Vehicle 22
+Speed: 115.31 km/h
+###########
+
+12:45:32
+Vehicle 25
+Speed: 216.27 km/h
+###########
+
+12:45:32
+Vehicle 28
+Speed: 194.26 km/h
+###########
+
+12:45:32
+Vehicle 33
+Speed: 153.73 km/h
+###########
+
+12:45:32
+Vehicle 1
+Speed: 237.89 km/h
+###########
+
+12:45:32
+Vehicle 2
+Speed: 167.72 km/h
+###########
+
+12:45:32
+Vehicle 3
+Speed: 221.85 km/h
+###########
+
+12:45:32
+Vehicle 15
+Speed: 172.17 km/h
+###########
+
+12:45:32
+Vehicle 22
+Speed: 113.99 km/h
+###########
+
+12:45:32
+Vehicle 25
+Speed: 216.09 km/h
+###########
+
+12:45:32
+Vehicle 28
+Speed: 194.44 km/h
+###########
+
+12:45:32
+Vehicle 33
+Speed: 151.81 km/h
+###########
+
+12:45:32
+Vehicle 1
+Speed: 235.60 km/h
+###########
+
+12:45:32
+Vehicle 2
+Speed: 168.52 km/h
+###########
+
+12:45:32
+Vehicle 3
+Speed: 222.01 km/h
+###########
+
+12:45:32
+Vehicle 15
+Speed: 170.46 km/h
+###########
+
+12:45:32
+Vehicle 22
+Speed: 112.73 km/h
+###########
+
+12:45:32
+Vehicle 25
+Speed: 215.91 km/h
+###########
+
+12:45:32
+Vehicle 28
+Speed: 195.89 km/h
+###########
+
+12:45:32
+Vehicle 33
+Speed: 149.88 km/h
+###########
+
+12:45:33
+Vehicle 1
+Speed: 242.44 km/h
+###########
+
+12:45:33
+Vehicle 2
+Speed: 169.46 km/h
+###########
+
+12:45:33
+Vehicle 3
+Speed: 222.21 km/h
+###########
+
+12:45:33
+Vehicle 15
+Speed: 168.73 km/h
+###########
+
+12:45:33
+Vehicle 22
+Speed: 111.47 km/h
+###########
+
+12:45:33
+Vehicle 25
+Speed: 215.89 km/h
+###########
+
+12:45:33
+Vehicle 28
+Speed: 196.39 km/h
+###########
+
+12:45:33
+Vehicle 33
+Speed: 153.74 km/h
+###########
+
+12:45:33
+Vehicle 1
+Speed: 249.48 km/h
+###########
+
+12:45:33
+Vehicle 2
+Speed: 167.73 km/h
+###########
+
+12:45:33
+Vehicle 3
+Speed: 222.46 km/h
+###########
+
+12:45:33
+Vehicle 15
+Speed: 167.08 km/h
+###########
+
+12:45:33
+Vehicle 22
+Speed: 110.24 km/h
+###########
+
+12:45:33
+Vehicle 25
+Speed: 215.76 km/h
+###########
+
+12:45:33
+Vehicle 28
+Speed: 198.18 km/h
+###########
+
+12:45:33
+Vehicle 33
+Speed: 153.72 km/h
+###########
+
+12:45:34
+Vehicle 1
+Speed: 247.16 km/h
+###########
+
+12:45:34
+Vehicle 2
+Speed: 168.61 km/h
+###########
+
+12:45:34
+Vehicle 3
+Speed: 222.85 km/h
+###########
+
+12:45:34
+Vehicle 15
+Speed: 165.43 km/h
+###########
+
+12:45:34
+Vehicle 22
+Speed: 109.05 km/h
+###########
+
+12:45:34
+Vehicle 25
+Speed: 215.69 km/h
+###########
+
+12:45:34
+Vehicle 28
+Speed: 198.93 km/h
+###########
+
+12:45:34
+Vehicle 33
+Speed: 153.40 km/h
+###########
+
+12:45:34
+Vehicle 1
+Speed: 253.98 km/h
+###########
+
+12:45:34
+Vehicle 2
+Speed: 169.52 km/h
+###########
+
+12:45:34
+Vehicle 3
+Speed: 223.19 km/h
+###########
+
+12:45:34
+Vehicle 15
+Speed: 163.79 km/h
+###########
+
+12:45:34
+Vehicle 22
+Speed: 107.89 km/h
+###########
+
+12:45:34
+Vehicle 25
+Speed: 215.68 km/h
+###########
+
+12:45:34
+Vehicle 28
+Speed: 202.95 km/h
+###########
+
+12:45:34
+Vehicle 33
+Speed: 153.10 km/h
+###########
+
+12:45:35
+Vehicle 1
+Speed: 251.31 km/h
+###########
+
+12:45:35
+Vehicle 2
+Speed: 170.46 km/h
+###########
+
+12:45:35
+Vehicle 3
+Speed: 223.57 km/h
+###########
+
+12:45:35
+Vehicle 15
+Speed: 162.21 km/h
+###########
+
+12:45:35
+Vehicle 22
+Speed: 106.73 km/h
+###########
+
+12:45:35
+Vehicle 25
+Speed: 214.98 km/h
+###########
+
+12:45:35
+Vehicle 28
+Speed: 201.33 km/h
+###########
+
+12:45:35
+Vehicle 33
+Speed: 153.02 km/h
+###########
+
+12:45:35
+Vehicle 1
+Speed: 249.05 km/h
+###########
+
+12:45:35
+Vehicle 2
+Speed: 171.43 km/h
+###########
+
+12:45:35
+Vehicle 3
+Speed: 226.90 km/h
+###########
+
+12:45:35
+Vehicle 15
+Speed: 160.65 km/h
+###########
+
+12:45:35
+Vehicle 22
+Speed: 105.59 km/h
+###########
+
+12:45:35
+Vehicle 25
+Speed: 213.55 km/h
+###########
+
+12:45:35
+Vehicle 28
+Speed: 202.02 km/h
+###########
+
+12:45:35
+Vehicle 33
+Speed: 152.90 km/h
+###########
+
+12:45:36
+Vehicle 1
+Speed: 256.31 km/h
+###########
+
+12:45:36
+Vehicle 2
+Speed: 172.54 km/h
+###########
+
+12:45:36
+Vehicle 3
+Speed: 227.40 km/h
+###########
+
+12:45:36
+Vehicle 15
+Speed: 159.10 km/h
+###########
+
+12:45:36
+Vehicle 22
+Speed: 104.48 km/h
+###########
+
+12:45:36
+Vehicle 25
+Speed: 211.65 km/h
+###########
+
+12:45:36
+Vehicle 28
+Speed: 199.46 km/h
+###########
+
+12:45:36
+Vehicle 33
+Speed: 153.10 km/h
+###########
+
+12:45:36
+Vehicle 1
+Speed: 253.70 km/h
+###########
+
+12:45:36
+Vehicle 2
+Speed: 170.90 km/h
+###########
+
+12:45:36
+Vehicle 3
+Speed: 228.04 km/h
+###########
+
+12:45:36
+Vehicle 15
+Speed: 157.59 km/h
+###########
+
+12:45:36
+Vehicle 22
+Speed: 103.40 km/h
+###########
+
+12:45:36
+Vehicle 25
+Speed: 209.73 km/h
+###########
+
+12:45:36
+Vehicle 28
+Speed: 199.22 km/h
+###########
+
+12:45:36
+Vehicle 33
+Speed: 152.75 km/h
+###########
+
+12:45:36
+Vehicle 1
+Speed: 260.77 km/h
+###########
+
+12:45:36
+Vehicle 2
+Speed: 171.94 km/h
+###########
+
+12:45:37
+Vehicle 3
+Speed: 228.63 km/h
+###########
+
+12:45:37
+Vehicle 15
+Speed: 156.10 km/h
+###########
+
+12:45:37
+Vehicle 22
+Speed: 102.35 km/h
+###########
+
+12:45:37
+Vehicle 25
+Speed: 207.81 km/h
+###########
+
+12:45:37
+Vehicle 28
+Speed: 200.19 km/h
+###########
+
+12:45:37
+Vehicle 33
+Speed: 152.93 km/h
+###########
+
+12:45:37
+Vehicle 1
+Speed: 258.17 km/h
+###########
+
+12:45:37
+Vehicle 2
+Speed: 173.02 km/h
+###########
+
+12:45:37
+Vehicle 3
+Speed: 229.27 km/h
+###########
+
+12:45:37
+Vehicle 15
+Speed: 154.63 km/h
+###########
+
+12:45:37
+Vehicle 22
+Speed: 101.30 km/h
+###########
+
+12:45:37
+Vehicle 25
+Speed: 205.83 km/h
+###########
+
+12:45:37
+Vehicle 28
+Speed: 200.16 km/h
+###########
+
+12:45:37
+Vehicle 33
+Speed: 152.78 km/h
+###########
+
+12:45:38
+Vehicle 1
+Speed: 258.54 km/h
+###########
+
+12:45:38
+Vehicle 2
+Speed: 174.22 km/h
+###########
+
+12:45:38
+Vehicle 3
+Speed: 230.13 km/h
+###########
+
+12:45:38
+Vehicle 15
+Speed: 153.19 km/h
+###########
+
+12:45:38
+Vehicle 22
+Speed: 100.27 km/h
+###########
+
+12:45:38
+Vehicle 25
+Speed: 203.91 km/h
+###########
+
+12:45:38
+Vehicle 28
+Speed: 200.23 km/h
+###########
+
+12:45:38
+Vehicle 33
+Speed: 152.75 km/h
+###########
+
+12:45:38
+Vehicle 34
+Speed: 0.00 km/h
+###########
+
+12:45:38
+Vehicle 1
+Speed: 265.11 km/h
+###########
+
+12:45:38
+Vehicle 2
+Speed: 175.46 km/h
+###########
+
+12:45:38
+Vehicle 3
+Speed: 231.53 km/h
+###########
+
+12:45:38
+Vehicle 15
+Speed: 151.77 km/h
+###########
+
+12:45:38
+Vehicle 22
+Speed: 99.28 km/h
+###########
+
+12:45:38
+Vehicle 25
+Speed: 201.96 km/h
+###########
+
+12:45:38
+Vehicle 28
+Speed: 200.35 km/h
+###########
+
+12:45:38
+Vehicle 33
+Speed: 151.02 km/h
+###########
+
+12:45:38
+Vehicle 34
+Speed: 156.70 km/h
+###########
+
+12:45:38
+Vehicle 1
+Speed: 261.55 km/h
+###########
+
+12:45:38
+Vehicle 2
+Speed: 173.70 km/h
+###########
+
+12:45:38
+Vehicle 3
+Speed: 233.21 km/h
+###########
+
+12:45:38
+Vehicle 15
+Speed: 150.38 km/h
+###########
+
+12:45:38
+Vehicle 22
+Speed: 98.29 km/h
+###########
+
+12:45:38
+Vehicle 25
+Speed: 200.05 km/h
+###########
+
+12:45:38
+Vehicle 28
+Speed: 201.84 km/h
+###########
+
+12:45:38
+Vehicle 33
+Speed: 149.19 km/h
+###########
+
+12:45:38
+Vehicle 34
+Speed: 182.32 km/h
+###########
+
+12:45:39
+Vehicle 1
+Speed: 268.52 km/h
+###########
+
+12:45:39
+Vehicle 2
+Speed: 176.12 km/h
+###########
+
+12:45:39
+Vehicle 3
+Speed: 237.77 km/h
+###########
+
+12:45:39
+Vehicle 15
+Speed: 149.00 km/h
+###########
+
+12:45:39
+Vehicle 22
+Speed: 97.33 km/h
+###########
+
+12:45:39
+Vehicle 25
+Speed: 198.16 km/h
+###########
+
+12:45:39
+Vehicle 28
+Speed: 202.22 km/h
+###########
+
+12:45:39
+Vehicle 33
+Speed: 147.45 km/h
+###########
+
+12:45:39
+Vehicle 34
+Speed: 166.99 km/h
+###########
+
+12:45:39
+Vehicle 1
+Speed: 279.05 km/h
+###########
+
+12:45:39
+Vehicle 2
+Speed: 177.31 km/h
+###########
+
+12:45:39
+Vehicle 3
+Speed: 239.23 km/h
+###########
+
+12:45:39
+Vehicle 15
+Speed: 147.66 km/h
+###########
+
+12:45:39
+Vehicle 22
+Speed: 96.38 km/h
+###########
+
+12:45:39
+Vehicle 25
+Speed: 196.28 km/h
+###########
+
+12:45:39
+Vehicle 28
+Speed: 202.70 km/h
+###########
+
+12:45:39
+Vehicle 33
+Speed: 145.63 km/h
+###########
+
+12:45:39
+Vehicle 34
+Speed: 158.20 km/h
+###########
+
+12:45:40
+Vehicle 1
+Speed: 275.16 km/h
+###########
+
+12:45:40
+Vehicle 2
+Speed: 179.17 km/h
+###########
+
+12:45:40
+Vehicle 3
+Speed: 240.67 km/h
+###########
+
+12:45:40
+Vehicle 15
+Speed: 146.33 km/h
+###########
+
+12:45:40
+Vehicle 22
+Speed: 95.44 km/h
+###########
+
+12:45:40
+Vehicle 25
+Speed: 194.42 km/h
+###########
+
+12:45:40
+Vehicle 28
+Speed: 203.23 km/h
+###########
+
+12:45:40
+Vehicle 33
+Speed: 143.91 km/h
+###########
+
+12:45:40
+Vehicle 34
+Speed: 154.64 km/h
+###########
+
+12:45:40
+Vehicle 36
+Speed: 0.00 km/h
+###########
+
+12:45:40
+Vehicle 1
+Speed: 275.00 km/h
+###########
+
+12:45:40
+Vehicle 2
+Speed: 181.08 km/h
+###########
+
+12:45:40
+Vehicle 3
+Speed: 242.10 km/h
+###########
+
+12:45:40
+Vehicle 15
+Speed: 145.03 km/h
+###########
+
+12:45:40
+Vehicle 22
+Speed: 94.54 km/h
+###########
+
+12:45:40
+Vehicle 25
+Speed: 192.54 km/h
+###########
+
+12:45:40
+Vehicle 28
+Speed: 203.91 km/h
+###########
+
+12:45:40
+Vehicle 33
+Speed: 142.12 km/h
+###########
+
+12:45:40
+Vehicle 34
+Speed: 151.08 km/h
+###########
+
+12:45:40
+Vehicle 36
+Speed: 334.17 km/h
+###########
+
+12:45:41
+Vehicle 1
+Speed: 275.26 km/h
+###########
+
+12:45:41
+Vehicle 2
+Speed: 179.28 km/h
+###########
+
+12:45:41
+Vehicle 3
+Speed: 243.52 km/h
+###########
+
+12:45:41
+Vehicle 15
+Speed: 143.75 km/h
+###########
+
+12:45:41
+Vehicle 22
+Speed: 93.65 km/h
+###########
+
+12:45:41
+Vehicle 25
+Speed: 190.71 km/h
+###########
+
+12:45:41
+Vehicle 28
+Speed: 206.04 km/h
+###########
+
+12:45:41
+Vehicle 33
+Speed: 140.42 km/h
+###########
+
+12:45:41
+Vehicle 34
+Speed: 151.01 km/h
+###########
+
+12:45:41
+Vehicle 36
+Speed: 275.58 km/h
+###########
+
+12:45:41
+Vehicle 1
+Speed: 282.51 km/h
+###########
+
+12:45:41
+Vehicle 2
+Speed: 182.04 km/h
+###########
+
+12:45:41
+Vehicle 3
+Speed: 245.47 km/h
+###########
+
+12:45:41
+Vehicle 15
+Speed: 142.47 km/h
+###########
+
+12:45:41
+Vehicle 25
+Speed: 188.87 km/h
+###########
+
+12:45:41
+Vehicle 28
+Speed: 215.28 km/h
+###########
+
+12:45:41
+Vehicle 33
+Speed: 138.68 km/h
+###########
+
+12:45:41
+Vehicle 34
+Speed: 151.21 km/h
+###########
+
+12:45:41
+Vehicle 36
+Speed: 219.79 km/h
+###########
+
+12:45:41
+Vehicle 1
+Speed: 290.41 km/h
+###########
+
+12:45:41
+Vehicle 2
+Speed: 183.33 km/h
+###########
+
+12:45:41
+Vehicle 3
+Speed: 247.69 km/h
+###########
+
+12:45:41
+Vehicle 15
+Speed: 141.24 km/h
+###########
+
+12:45:41
+Vehicle 25
+Speed: 187.08 km/h
+###########
+
+12:45:41
+Vehicle 28
+Speed: 214.47 km/h
+###########
+
+12:45:41
+Vehicle 33
+Speed: 137.02 km/h
+###########
+
+12:45:41
+Vehicle 34
+Speed: 151.50 km/h
+###########
+
+12:45:41
+Vehicle 36
+Speed: 191.56 km/h
+###########
+
+12:45:42
+Vehicle 1
+Speed: 286.82 km/h
+###########
+
+12:45:42
+Vehicle 2
+Speed: 186.07 km/h
+###########
+
+12:45:42
+Vehicle 3
+Speed: 253.58 km/h
+###########
+
+12:45:42
+Vehicle 15
+Speed: 140.02 km/h
+###########
+
+12:45:42
+Vehicle 25
+Speed: 185.32 km/h
+###########
+
+12:45:42
+Vehicle 28
+Speed: 212.52 km/h
+###########
+
+12:45:42
+Vehicle 33
+Speed: 135.38 km/h
+###########
+
+12:45:42
+Vehicle 34
+Speed: 150.64 km/h
+###########
+
+12:45:42
+Vehicle 36
+Speed: 194.51 km/h
+###########
+
+12:45:42
+Vehicle 1
+Speed: 299.29 km/h
+###########
+
+12:45:42
+Vehicle 2
+Speed: 183.38 km/h
+###########
+
+12:45:42
+Vehicle 3
+Speed: 255.54 km/h
+###########
+
+12:45:42
+Vehicle 15
+Speed: 138.81 km/h
+###########
+
+12:45:42
+Vehicle 25
+Speed: 183.57 km/h
+###########
+
+12:45:42
+Vehicle 28
+Speed: 211.84 km/h
+###########
+
+12:45:42
+Vehicle 33
+Speed: 133.70 km/h
+###########
+
+12:45:42
+Vehicle 34
+Speed: 149.74 km/h
+###########
+
+12:45:42
+Vehicle 36
+Speed: 179.25 km/h
+###########
+
+12:45:43
+Vehicle 1
+Speed: 299.13 km/h
+###########
+
+12:45:43
+Vehicle 2
+Speed: 186.23 km/h
+###########
+
+12:45:43
+Vehicle 3
+Speed: 258.38 km/h
+###########
+
+12:45:43
+Vehicle 15
+Speed: 136.39 km/h
+###########
+
+12:45:43
+Vehicle 25
+Speed: 181.85 km/h
+###########
+
+12:45:43
+Vehicle 28
+Speed: 211.23 km/h
+###########
+
+12:45:43
+Vehicle 33
+Speed: 132.12 km/h
+###########
+
+12:45:43
+Vehicle 34
+Speed: 151.49 km/h
+###########
+
+12:45:43
+Vehicle 36
+Speed: 182.52 km/h
+###########
+
+12:45:43
+Vehicle 1
+Speed: 299.43 km/h
+###########
+
+12:45:43
+Vehicle 2
+Speed: 188.33 km/h
+###########
+
+12:45:43
+Vehicle 3
+Speed: 260.39 km/h
+###########
+
+12:45:43
+Vehicle 15
+Speed: 134.86 km/h
+###########
+
+12:45:43
+Vehicle 25
+Speed: 180.13 km/h
+###########
+
+12:45:43
+Vehicle 28
+Speed: 210.65 km/h
+###########
+
+12:45:43
+Vehicle 33
+Speed: 130.49 km/h
+###########
+
+12:45:43
+Vehicle 34
+Speed: 152.95 km/h
+###########
+
+12:45:43
+Vehicle 36
+Speed: 171.71 km/h
+###########
+
+12:45:43
+Vehicle 1
+Speed: 308.15 km/h
+###########
+
+12:45:43
+Vehicle 2
+Speed: 190.45 km/h
+###########
+
+12:45:43
+Vehicle 3
+Speed: 263.04 km/h
+###########
+
+12:45:43
+Vehicle 15
+Speed: 132.60 km/h
+###########
+
+12:45:43
+Vehicle 25
+Speed: 178.45 km/h
+###########
+
+12:45:43
+Vehicle 28
+Speed: 210.17 km/h
+###########
+
+12:45:43
+Vehicle 33
+Speed: 128.95 km/h
+###########
+
+12:45:43
+Vehicle 34
+Speed: 151.35 km/h
+###########
+
+12:45:43
+Vehicle 36
+Speed: 173.94 km/h
+###########
+
+12:45:44
+Vehicle 1
+Speed: 304.41 km/h
+###########
+
+12:45:44
+Vehicle 2
+Speed: 189.06 km/h
+###########
+
+12:45:44
+Vehicle 3
+Speed: 265.10 km/h
+###########
+
+12:45:44
+Vehicle 15
+Speed: 131.15 km/h
+###########
+
+12:45:44
+Vehicle 25
+Speed: 176.79 km/h
+###########
+
+12:45:44
+Vehicle 28
+Speed: 209.76 km/h
+###########
+
+12:45:44
+Vehicle 33
+Speed: 127.39 km/h
+###########
+
+12:45:44
+Vehicle 34
+Speed: 148.60 km/h
+###########
+
+12:45:44
+Vehicle 36
+Speed: 175.27 km/h
+###########
+
+12:45:44
+Vehicle 1
+Speed: 317.80 km/h
+###########
+
+12:45:44
+Vehicle 2
+Speed: 190.53 km/h
+###########
+
+12:45:44
+Vehicle 3
+Speed: 268.14 km/h
+###########
+
+12:45:44
+Vehicle 15
+Speed: 129.01 km/h
+###########
+
+12:45:44
+Vehicle 25
+Speed: 175.14 km/h
+###########
+
+12:45:44
+Vehicle 28
+Speed: 209.41 km/h
+###########
+
+12:45:44
+Vehicle 33
+Speed: 125.85 km/h
+###########
+
+12:45:44
+Vehicle 34
+Speed: 148.24 km/h
+###########
+
+12:45:44
+Vehicle 36
+Speed: 216.56 km/h
+###########
+
+12:45:45
+Vehicle 1
+Speed: 313.98 km/h
+###########
+
+12:45:45
+Vehicle 2
+Speed: 193.51 km/h
+###########
+
+12:45:45
+Vehicle 3
+Speed: 270.80 km/h
+###########
+
+12:45:45
+Vehicle 25
+Speed: 173.54 km/h
+###########
+
+12:45:45
+Vehicle 28
+Speed: 209.09 km/h
+###########
+
+12:45:45
+Vehicle 33
+Speed: 124.39 km/h
+###########
+
+12:45:45
+Vehicle 34
+Speed: 147.48 km/h
+###########
+
+12:45:45
+Vehicle 36
+Speed: 219.61 km/h
+###########
+
+12:45:45
+Vehicle 1
+Speed: 313.80 km/h
+###########
+
+12:45:45
+Vehicle 2
+Speed: 196.59 km/h
+###########
+
+12:45:45
+Vehicle 3
+Speed: 279.05 km/h
+###########
+
+12:45:45
+Vehicle 25
+Speed: 171.95 km/h
+###########
+
+12:45:45
+Vehicle 28
+Speed: 209.00 km/h
+###########
+
+12:45:45
+Vehicle 33
+Speed: 122.91 km/h
+###########
+
+12:45:45
+Vehicle 34
+Speed: 148.78 km/h
+###########
+
+12:45:45
+Vehicle 36
+Speed: 215.27 km/h
+###########
+
+12:45:46
+Vehicle 1
+Speed: 322.82 km/h
+###########
+
+12:45:46
+Vehicle 2
+Speed: 198.95 km/h
+###########
+
+12:45:46
+Vehicle 3
+Speed: 282.69 km/h
+###########
+
+12:45:46
+Vehicle 25
+Speed: 170.37 km/h
+###########
+
+12:45:46
+Vehicle 28
+Speed: 207.55 km/h
+###########
+
+12:45:46
+Vehicle 33
+Speed: 121.50 km/h
+###########
+
+12:45:46
+Vehicle 34
+Speed: 147.18 km/h
+###########
+
+12:45:46
+Vehicle 36
+Speed: 211.49 km/h
+###########
+
+12:45:46
+Vehicle 1
+Speed: 318.34 km/h
+###########
+
+12:45:46
+Vehicle 2
+Speed: 197.45 km/h
+###########
+
+12:45:46
+Vehicle 3
+Speed: 285.12 km/h
+###########
+
+12:45:46
+Vehicle 25
+Speed: 168.83 km/h
+###########
+
+12:45:46
+Vehicle 28
+Speed: 207.49 km/h
+###########
+
+12:45:46
+Vehicle 33
+Speed: 120.07 km/h
+###########
+
+12:45:46
+Vehicle 34
+Speed: 146.74 km/h
+###########
+
+12:45:46
+Vehicle 36
+Speed: 213.02 km/h
+###########
+
+12:45:46
+Vehicle 1
+Speed: 332.97 km/h
+###########
+
+12:45:46
+Vehicle 2
+Speed: 198.90 km/h
+###########
+
+12:45:46
+Vehicle 3
+Speed: 288.72 km/h
+###########
+
+12:45:46
+Vehicle 25
+Speed: 167.31 km/h
+###########
+
+12:45:46
+Vehicle 28
+Speed: 207.49 km/h
+###########
+
+12:45:46
+Vehicle 33
+Speed: 118.71 km/h
+###########
+
+12:45:47
+Vehicle 34
+Speed: 147.45 km/h
+###########
+
+12:45:47
+Vehicle 36
+Speed: 209.47 km/h
+###########
+
+12:45:47
+Vehicle 1
+Speed: 333.34 km/h
+###########
+
+12:45:47
+Vehicle 2
+Speed: 202.38 km/h
+###########
+
+12:45:47
+Vehicle 3
+Speed: 291.83 km/h
+###########
+
+12:45:47
+Vehicle 25
+Speed: 165.82 km/h
+###########
+
+12:45:47
+Vehicle 28
+Speed: 205.08 km/h
+###########
+
+12:45:47
+Vehicle 33
+Speed: 117.34 km/h
+###########
+
+12:45:47
+Vehicle 34
+Speed: 150.15 km/h
+###########
+
+12:45:47
+Vehicle 36
+Speed: 210.36 km/h
+###########
+
+12:45:47
+Vehicle 1
+Speed: 343.69 km/h
+###########
+
+12:45:47
+Vehicle 2
+Speed: 204.85 km/h
+###########
+
+12:45:47
+Vehicle 3
+Speed: 296.44 km/h
+###########
+
+12:45:47
+Vehicle 25
+Speed: 164.33 km/h
+###########
+
+12:45:47
+Vehicle 28
+Speed: 205.13 km/h
+###########
+
+12:45:47
+Vehicle 33
+Speed: 116.03 km/h
+###########
+
+12:45:47
+Vehicle 34
+Speed: 153.06 km/h
+###########
+
+12:45:47
+Vehicle 36
+Speed: 214.45 km/h
+###########
+
+12:45:48
+Vehicle 1
+Speed: 343.51 km/h
+###########
+
+12:45:48
+Vehicle 2
+Speed: 208.30 km/h
+###########
+
+12:45:48
+Vehicle 3
+Speed: 299.76 km/h
+###########
+
+12:45:48
+Vehicle 25
+Speed: 162.88 km/h
+###########
+
+12:45:48
+Vehicle 28
+Speed: 205.23 km/h
+###########
+
+12:45:48
+Vehicle 33
+Speed: 114.71 km/h
+###########
+
+12:45:48
+Vehicle 34
+Speed: 147.41 km/h
+###########
+
+12:45:48
+Vehicle 36
+Speed: 210.41 km/h
+###########
+
+12:45:48
+Vehicle 1
+Speed: 339.39 km/h
+###########
+
+12:45:48
+Vehicle 2
+Speed: 211.88 km/h
+###########
+
+12:45:48
+Vehicle 3
+Speed: 310.70 km/h
+###########
+
+12:45:48
+Vehicle 25
+Speed: 161.44 km/h
+###########
+
+12:45:48
+Vehicle 28
+Speed: 204.10 km/h
+###########
+
+12:45:48
+Vehicle 33
+Speed: 113.45 km/h
+###########
+
+12:45:48
+Vehicle 34
+Speed: 146.06 km/h
+###########
+
+12:45:48
+Vehicle 36
+Speed: 206.75 km/h
+###########
+
+12:45:49
+Vehicle 2
+Speed: 211.14 km/h
+###########
+
+12:45:49
+Vehicle 3
+Speed: 315.71 km/h
+###########
+
+12:45:49
+Vehicle 25
+Speed: 160.03 km/h
+###########
+
+12:45:49
+Vehicle 28
+Speed: 204.30 km/h
+###########
+
+12:45:49
+Vehicle 33
+Speed: 112.18 km/h
+###########
+
+12:45:49
+Vehicle 34
+Speed: 145.76 km/h
+###########
+
+12:45:49
+Vehicle 36
+Speed: 206.35 km/h
+###########
+
+12:45:49
+Vehicle 2
+Speed: 212.81 km/h
+###########
+
+12:45:49
+Vehicle 3
+Speed: 320.17 km/h
+###########
+
+12:45:49
+Vehicle 25
+Speed: 158.64 km/h
+###########
+
+12:45:49
+Vehicle 28
+Speed: 203.25 km/h
+###########
+
+12:45:49
+Vehicle 33
+Speed: 110.97 km/h
+###########
+
+12:45:49
+Vehicle 34
+Speed: 144.85 km/h
+###########
+
+12:45:49
+Vehicle 36
+Speed: 202.91 km/h
+###########
+
+12:45:50
+Vehicle 2
+Speed: 215.52 km/h
+###########
+
+12:45:50
+Vehicle 25
+Speed: 157.27 km/h
+###########
+
+12:45:50
+Vehicle 28
+Speed: 203.56 km/h
+###########
+
+12:45:50
+Vehicle 33
+Speed: 109.75 km/h
+###########
+
+12:45:50
+Vehicle 34
+Speed: 145.76 km/h
+###########
+
+12:45:50
+Vehicle 36
+Speed: 199.65 km/h
+###########
+
+12:45:50
+Vehicle 2
+Speed: 218.51 km/h
+###########
+
+12:45:50
+Vehicle 25
+Speed: 155.93 km/h
+###########
+
+12:45:50
+Vehicle 28
+Speed: 203.93 km/h
+###########
+
+12:45:50
+Vehicle 33
+Speed: 108.58 km/h
+###########
+
+12:45:50
+Vehicle 34
+Speed: 145.32 km/h
+###########
+
+12:45:50
+Vehicle 36
+Speed: 198.97 km/h
+###########
+
+12:45:50
+Vehicle 2
+Speed: 221.38 km/h
+###########
+
+12:45:50
+Vehicle 25
+Speed: 154.59 km/h
+###########
+
+12:45:50
+Vehicle 28
+Speed: 204.36 km/h
+###########
+
+12:45:50
+Vehicle 33
+Speed: 107.40 km/h
+###########
+
+12:45:50
+Vehicle 34
+Speed: 144.16 km/h
+###########
+
+12:45:50
+Vehicle 36
+Speed: 195.89 km/h
+###########
+
+12:45:51
+Vehicle 25
+Speed: 153.28 km/h
+###########
+
+12:45:51
+Vehicle 28
+Speed: 204.85 km/h
+###########
+
+12:45:51
+Vehicle 33
+Speed: 106.27 km/h
+###########
+
+12:45:51
+Vehicle 34
+Speed: 145.57 km/h
+###########
+
+12:45:51
+Vehicle 36
+Speed: 192.96 km/h
+###########
+
+12:45:51
+Vehicle 25
+Speed: 152.46 km/h
+###########
+
+12:45:51
+Vehicle 28
+Speed: 203.96 km/h
+###########
+
+12:45:51
+Vehicle 33
+Speed: 105.15 km/h
+###########
+
+12:45:51
+Vehicle 34
+Speed: 147.14 km/h
+###########
+
+12:45:51
+Vehicle 36
+Speed: 192.24 km/h
+###########
+
+12:45:52
+Vehicle 25
+Speed: 151.65 km/h
+###########
+
+12:45:52
+Vehicle 28
+Speed: 204.60 km/h
+###########
+
+12:45:52
+Vehicle 33
+Speed: 104.06 km/h
+###########
+
+12:45:52
+Vehicle 34
+Speed: 146.71 km/h
+###########
+
+12:45:52
+Vehicle 36
+Speed: 213.84 km/h
+###########
+
+12:45:52
+Vehicle 25
+Speed: 147.80 km/h
+###########
+
+12:45:52
+Vehicle 28
+Speed: 205.26 km/h
+###########
+
+12:45:52
+Vehicle 33
+Speed: 102.97 km/h
+###########
+
+12:45:52
+Vehicle 34
+Speed: 146.28 km/h
+###########
+
+12:45:52
+Vehicle 36
+Speed: 214.82 km/h
+###########
+
+12:45:52
+Vehicle 25
+Speed: 146.04 km/h
+###########
+
+12:45:52
+Vehicle 28
+Speed: 205.98 km/h
+###########
+
+12:45:52
+Vehicle 33
+Speed: 101.93 km/h
+###########
+
+12:45:52
+Vehicle 34
+Speed: 145.16 km/h
+###########
+
+12:45:52
+Vehicle 36
+Speed: 212.44 km/h
+###########
+
+12:45:53
+Vehicle 25
+Speed: 145.27 km/h
+###########
+
+12:45:53
+Vehicle 28
+Speed: 205.29 km/h
+###########
+
+12:45:53
+Vehicle 33
+Speed: 100.88 km/h
+###########
+
+12:45:53
+Vehicle 34
+Speed: 144.98 km/h
+###########
+
+12:45:53
+Vehicle 36
+Speed: 210.04 km/h
+###########
+
+12:45:53
+Vehicle 25
+Speed: 142.62 km/h
+###########
+
+12:45:53
+Vehicle 28
+Speed: 206.12 km/h
+###########
+
+12:45:53
+Vehicle 33
+Speed: 99.87 km/h
+###########
+
+12:45:53
+Vehicle 34
+Speed: 144.99 km/h
+###########
+
+12:45:53
+Vehicle 36
+Speed: 209.05 km/h
+###########
+
+12:45:54
+Vehicle 25
+Speed: 140.96 km/h
+###########
+
+12:45:54
+Vehicle 28
+Speed: 205.45 km/h
+###########
+
+12:45:54
+Vehicle 33
+Speed: 98.87 km/h
+###########
+
+12:45:54
+Vehicle 34
+Speed: 145.07 km/h
+###########
+
+12:45:54
+Vehicle 36
+Speed: 206.67 km/h
+###########
+
+12:45:54
+Vehicle 41
+Speed: 0.00 km/h
+###########
+
+12:45:55
+Vehicle 25
+Speed: 140.26 km/h
+###########
+
+12:45:55
+Vehicle 28
+Speed: 206.38 km/h
+###########
+
+12:45:55
+Vehicle 33
+Speed: 97.89 km/h
+###########
+
+12:45:55
+Vehicle 34
+Speed: 144.47 km/h
+###########
+
+12:45:55
+Vehicle 36
+Speed: 204.38 km/h
+###########
+
+12:45:55
+Vehicle 41
+Speed: 186.59 km/h
+###########
+
+12:45:55
+Vehicle 25
+Speed: 138.66 km/h
+###########
+
+12:45:55
+Vehicle 28
+Speed: 210.14 km/h
+###########
+
+12:45:55
+Vehicle 33
+Speed: 96.92 km/h
+###########
+
+12:45:55
+Vehicle 34
+Speed: 144.80 km/h
+###########
+
+12:45:55
+Vehicle 36
+Speed: 213.36 km/h
+###########
+
+12:45:55
+Vehicle 41
+Speed: 184.24 km/h
+###########
+
+12:45:56
+Vehicle 25
+Speed: 133.80 km/h
+###########
+
+12:45:56
+Vehicle 28
+Speed: 210.70 km/h
+###########
+
+12:45:56
+Vehicle 33
+Speed: 95.99 km/h
+###########
+
+12:45:56
+Vehicle 34
+Speed: 146.07 km/h
+###########
+
+12:45:56
+Vehicle 36
+Speed: 213.59 km/h
+###########
+
+12:45:56
+Vehicle 41
+Speed: 171.32 km/h
+###########
+
+12:45:56
+Vehicle 25
+Speed: 132.34 km/h
+###########
+
+12:45:56
+Vehicle 28
+Speed: 209.77 km/h
+###########
+
+12:45:56
+Vehicle 33
+Speed: 95.05 km/h
+###########
+
+12:45:56
+Vehicle 34
+Speed: 147.44 km/h
+###########
+
+12:45:56
+Vehicle 36
+Speed: 212.66 km/h
+###########
+
+12:45:56
+Vehicle 41
+Speed: 163.68 km/h
+###########
+
+12:45:56
+Vehicle 25
+Speed: 130.91 km/h
+###########
+
+12:45:56
+Vehicle 28
+Speed: 209.97 km/h
+###########
+
+12:45:56
+Vehicle 33
+Speed: 94.13 km/h
+###########
+
+12:45:57
+Vehicle 34
+Speed: 146.50 km/h
+###########
+
+12:45:57
+Vehicle 36
+Speed: 212.51 km/h
+###########
+
+12:45:57
+Vehicle 41
+Speed: 158.37 km/h
+###########
+
+12:45:57
+Vehicle 25
+Speed: 128.75 km/h
+###########
+
+12:45:57
+Vehicle 28
+Speed: 209.55 km/h
+###########
+
+12:45:57
+Vehicle 33
+Speed: 93.24 km/h
+###########
+
+12:45:57
+Vehicle 34
+Speed: 146.42 km/h
+###########
+
+12:45:57
+Vehicle 36
+Speed: 212.12 km/h
+###########
+
+12:45:57
+Vehicle 41
+Speed: 154.11 km/h
+###########
+
+12:45:58
+Vehicle 25
+Speed: 125.95 km/h
+###########
+
+12:45:58
+Vehicle 28
+Speed: 209.39 km/h
+###########
+
+12:45:58
+Vehicle 33
+Speed: 92.36 km/h
+###########
+
+12:45:58
+Vehicle 34
+Speed: 145.61 km/h
+###########
+
+12:45:58
+Vehicle 36
+Speed: 213.07 km/h
+###########
+
+12:45:58
+Vehicle 41
+Speed: 150.59 km/h
+###########
+
+12:45:58
+Vehicle 28
+Speed: 209.24 km/h
+###########
+
+12:45:58
+Vehicle 33
+Speed: 91.50 km/h
+###########
+
+12:45:58
+Vehicle 34
+Speed: 144.88 km/h
+###########
+
+12:45:58
+Vehicle 36
+Speed: 212.95 km/h
+###########
+
+12:45:58
+Vehicle 41
+Speed: 153.20 km/h
+###########
+
+12:45:59
+Vehicle 28
+Speed: 208.78 km/h
+###########
+
+12:45:59
+Vehicle 33
+Speed: 90.66 km/h
+###########
+
+12:45:59
+Vehicle 34
+Speed: 146.00 km/h
+###########
+
+12:45:59
+Vehicle 36
+Speed: 213.29 km/h
+###########
+
+12:45:59
+Vehicle 41
+Speed: 152.20 km/h
+###########
+
+12:45:59
+Vehicle 43
+Speed: 0.00 km/h
+###########
+
+12:45:59
+Vehicle 28
+Speed: 208.38 km/h
+###########
+
+12:45:59
+Vehicle 33
+Speed: 89.82 km/h
+###########
+
+12:45:59
+Vehicle 34
+Speed: 145.44 km/h
+###########
+
+12:45:59
+Vehicle 36
+Speed: 212.13 km/h
+###########
+
+12:45:59
+Vehicle 41
+Speed: 152.84 km/h
+###########
+
+12:45:59
+Vehicle 43
+Speed: 165.49 km/h
+###########
+
+12:46:00
+Vehicle 28
+Speed: 209.62 km/h
+###########
+
+12:46:00
+Vehicle 33
+Speed: 89.01 km/h
+###########
+
+12:46:00
+Vehicle 34
+Speed: 144.98 km/h
+###########
+
+12:46:00
+Vehicle 36
+Speed: 212.04 km/h
+###########
+
+12:46:00
+Vehicle 41
+Speed: 152.91 km/h
+###########
+
+12:46:00
+Vehicle 43
+Speed: 172.35 km/h
+###########
+
+12:46:00
+Vehicle 28
+Speed: 209.30 km/h
+###########
+
+12:46:00
+Vehicle 33
+Speed: 88.19 km/h
+###########
+
+12:46:00
+Vehicle 34
+Speed: 144.58 km/h
+###########
+
+12:46:00
+Vehicle 36
+Speed: 211.71 km/h
+###########
+
+12:46:00
+Vehicle 41
+Speed: 152.41 km/h
+###########
+
+12:46:00
+Vehicle 43
+Speed: 157.92 km/h
+###########
+
+12:46:01
+Vehicle 28
+Speed: 209.82 km/h
+###########
+
+12:46:01
+Vehicle 34
+Speed: 145.12 km/h
+###########
+
+12:46:01
+Vehicle 36
+Speed: 211.70 km/h
+###########
+
+12:46:01
+Vehicle 41
+Speed: 151.65 km/h
+###########
+
+12:46:01
+Vehicle 43
+Speed: 152.87 km/h
+###########
+
+12:46:01
+Vehicle 28
+Speed: 210.08 km/h
+###########
+
+12:46:01
+Vehicle 34
+Speed: 145.79 km/h
+###########
+
+12:46:01
+Vehicle 36
+Speed: 211.93 km/h
+###########
+
+12:46:01
+Vehicle 41
+Speed: 149.30 km/h
+###########
+
+12:46:01
+Vehicle 43
+Speed: 151.93 km/h
+###########
+
+12:46:02
+Vehicle 28
+Speed: 211.65 km/h
+###########
+
+12:46:02
+Vehicle 34
+Speed: 146.54 km/h
+###########
+
+12:46:02
+Vehicle 36
+Speed: 211.87 km/h
+###########
+
+12:46:02
+Vehicle 41
+Speed: 149.34 km/h
+###########
+
+12:46:02
+Vehicle 43
+Speed: 153.02 km/h
+###########
+
+12:46:02
+Vehicle 28
+Speed: 211.18 km/h
+###########
+
+12:46:02
+Vehicle 34
+Speed: 145.54 km/h
+###########
+
+12:46:02
+Vehicle 36
+Speed: 211.62 km/h
+###########
+
+12:46:02
+Vehicle 41
+Speed: 149.06 km/h
+###########
+
+12:46:02
+Vehicle 43
+Speed: 154.20 km/h
+###########
+
+12:46:03
+Vehicle 28
+Speed: 210.70 km/h
+###########
+
+12:46:03
+Vehicle 34
+Speed: 146.46 km/h
+###########
+
+12:46:03
+Vehicle 36
+Speed: 211.87 km/h
+###########
+
+12:46:03
+Vehicle 41
+Speed: 147.54 km/h
+###########
+
+12:46:03
+Vehicle 43
+Speed: 150.63 km/h
+###########
+
+12:46:03
+Vehicle 28
+Speed: 209.97 km/h
+###########
+
+12:46:03
+Vehicle 34
+Speed: 145.56 km/h
+###########
+
+12:46:03
+Vehicle 36
+Speed: 211.54 km/h
+###########
+
+12:46:03
+Vehicle 41
+Speed: 149.39 km/h
+###########
+
+12:46:03
+Vehicle 43
+Speed: 154.09 km/h
+###########
+
+12:46:04
+Vehicle 28
+Speed: 209.29 km/h
+###########
+
+12:46:04
+Vehicle 34
+Speed: 145.63 km/h
+###########
+
+12:46:04
+Vehicle 36
+Speed: 211.61 km/h
+###########
+
+12:46:04
+Vehicle 41
+Speed: 148.99 km/h
+###########
+
+12:46:04
+Vehicle 43
+Speed: 158.19 km/h
+###########
+
+12:46:04
+Vehicle 28
+Speed: 208.45 km/h
+###########
+
+12:46:04
+Vehicle 34
+Speed: 145.80 km/h
+###########
+
+12:46:04
+Vehicle 36
+Speed: 211.72 km/h
+###########
+
+12:46:04
+Vehicle 41
+Speed: 149.06 km/h
+###########
+
+12:46:04
+Vehicle 43
+Speed: 163.96 km/h
+###########
+
+12:46:05
+Vehicle 28
+Speed: 209.23 km/h
+###########
+
+12:46:05
+Vehicle 34
+Speed: 146.00 km/h
+###########
+
+12:46:05
+Vehicle 36
+Speed: 211.58 km/h
+###########
+
+12:46:05
+Vehicle 41
+Speed: 149.48 km/h
+###########
+
+12:46:05
+Vehicle 43
+Speed: 169.33 km/h
+###########
+
+12:46:05
+Vehicle 28
+Speed: 205.47 km/h
+###########
+
+12:46:05
+Vehicle 34
+Speed: 147.25 km/h
+###########
+
+12:46:05
+Vehicle 36
+Speed: 211.45 km/h
+###########
+
+12:46:05
+Vehicle 41
+Speed: 148.92 km/h
+###########
+
+12:46:05
+Vehicle 43
+Speed: 175.40 km/h
+###########
+
+12:46:06
+Vehicle 28
+Speed: 205.60 km/h
+###########
+
+12:46:06
+Vehicle 34
+Speed: 146.68 km/h
+###########
+
+12:46:06
+Vehicle 36
+Speed: 211.31 km/h
+###########
+
+12:46:06
+Vehicle 41
+Speed: 149.21 km/h
+###########
+
+12:46:06
+Vehicle 43
+Speed: 182.14 km/h
+###########
+
+12:46:06
+Vehicle 28
+Speed: 205.44 km/h
+###########
+
+12:46:06
+Vehicle 34
+Speed: 147.13 km/h
+###########
+
+12:46:06
+Vehicle 36
+Speed: 211.15 km/h
+###########
+
+12:46:06
+Vehicle 41
+Speed: 148.68 km/h
+###########
+
+12:46:06
+Vehicle 43
+Speed: 189.65 km/h
+###########
+
+12:46:07
+Vehicle 28
+Speed: 207.02 km/h
+###########
+
+12:46:07
+Vehicle 34
+Speed: 147.64 km/h
+###########
+
+12:46:07
+Vehicle 36
+Speed: 209.63 km/h
+###########
+
+12:46:07
+Vehicle 41
+Speed: 148.38 km/h
+###########
+
+12:46:07
+Vehicle 43
+Speed: 198.01 km/h
+###########
+
+12:46:07
+Vehicle 28
+Speed: 207.04 km/h
+###########
+
+12:46:07
+Vehicle 34
+Speed: 147.23 km/h
+###########
+
+12:46:07
+Vehicle 36
+Speed: 210.99 km/h
+###########
+
+12:46:07
+Vehicle 41
+Speed: 147.87 km/h
+###########
+
+12:46:07
+Vehicle 43
+Speed: 207.38 km/h
+###########
+
+12:46:08
+Vehicle 28
+Speed: 206.97 km/h
+###########
+
+12:46:08
+Vehicle 34
+Speed: 146.82 km/h
+###########
+
+12:46:08
+Vehicle 36
+Speed: 211.07 km/h
+###########
+
+12:46:08
+Vehicle 41
+Speed: 147.53 km/h
+###########
+
+12:46:08
+Vehicle 43
+Speed: 244.82 km/h
+###########
+
+12:46:08
+Vehicle 28
+Speed: 206.82 km/h
+###########
+
+12:46:08
+Vehicle 34
+Speed: 146.47 km/h
+###########
+
+12:46:08
+Vehicle 36
+Speed: 211.00 km/h
+###########
+
+12:46:08
+Vehicle 41
+Speed: 145.88 km/h
+###########
+
+12:46:08
+Vehicle 43
+Speed: 243.77 km/h
+###########
+
+12:46:09
+Vehicle 28
+Speed: 208.91 km/h
+###########
+
+12:46:09
+Vehicle 34
+Speed: 146.23 km/h
+###########
+
+12:46:09
+Vehicle 36
+Speed: 210.67 km/h
+###########
+
+12:46:09
+Vehicle 41
+Speed: 143.90 km/h
+###########
+
+12:46:09
+Vehicle 43
+Speed: 242.81 km/h
+###########
+
+12:46:09
+Vehicle 28
+Speed: 211.38 km/h
+###########
+
+12:46:09
+Vehicle 34
+Speed: 146.97 km/h
+###########
+
+12:46:09
+Vehicle 36
+Speed: 210.66 km/h
+###########
+
+12:46:09
+Vehicle 41
+Speed: 147.33 km/h
+###########
+
+12:46:09
+Vehicle 43
+Speed: 242.65 km/h
+###########
+
+12:46:10
+Vehicle 28
+Speed: 211.42 km/h
+###########
+
+12:46:10
+Vehicle 34
+Speed: 147.77 km/h
+###########
+
+12:46:10
+Vehicle 36
+Speed: 210.65 km/h
+###########
+
+12:46:10
+Vehicle 41
+Speed: 145.62 km/h
+###########
+
+12:46:10
+Vehicle 43
+Speed: 243.32 km/h
+###########
+
+12:46:10
+Vehicle 28
+Speed: 211.39 km/h
+###########
+
+12:46:10
+Vehicle 34
+Speed: 147.60 km/h
+###########
+
+12:46:10
+Vehicle 36
+Speed: 210.78 km/h
+###########
+
+12:46:10
+Vehicle 41
+Speed: 147.10 km/h
+###########
+
+12:46:10
+Vehicle 43
+Speed: 245.70 km/h
+###########
+
+12:46:11
+Vehicle 28
+Speed: 211.18 km/h
+###########
+
+12:46:11
+Vehicle 34
+Speed: 148.55 km/h
+###########
+
+12:46:11
+Vehicle 36
+Speed: 210.65 km/h
+###########
+
+12:46:11
+Vehicle 41
+Speed: 147.36 km/h
+###########
+
+12:46:11
+Vehicle 43
+Speed: 247.96 km/h
+###########
+
+12:46:11
+Vehicle 28
+Speed: 211.75 km/h
+###########
+
+12:46:11
+Vehicle 34
+Speed: 146.59 km/h
+###########
+
+12:46:11
+Vehicle 36
+Speed: 209.89 km/h
+###########
+
+12:46:11
+Vehicle 41
+Speed: 147.10 km/h
+###########
+
+12:46:11
+Vehicle 43
+Speed: 250.97 km/h
+###########
+
+12:46:12
+Vehicle 28
+Speed: 212.36 km/h
+###########
+
+12:46:12
+Vehicle 34
+Speed: 146.57 km/h
+###########
+
+12:46:12
+Vehicle 36
+Speed: 208.47 km/h
+###########
+
+12:46:12
+Vehicle 41
+Speed: 146.93 km/h
+###########
+
+12:46:12
+Vehicle 43
+Speed: 267.66 km/h
+###########
+
+12:46:12
+Vehicle 28
+Speed: 215.31 km/h
+###########
+
+12:46:12
+Vehicle 34
+Speed: 146.63 km/h
+###########
+
+12:46:12
+Vehicle 36
+Speed: 206.73 km/h
+###########
+
+12:46:12
+Vehicle 41
+Speed: 146.67 km/h
+###########
+
+12:46:12
+Vehicle 43
+Speed: 265.45 km/h
+###########
+
+12:46:13
+Vehicle 28
+Speed: 215.88 km/h
+###########
+
+12:46:13
+Vehicle 34
+Speed: 146.69 km/h
+###########
+
+12:46:13
+Vehicle 36
+Speed: 204.98 km/h
+###########
+
+12:46:13
+Vehicle 41
+Speed: 146.90 km/h
+###########
+
+12:46:13
+Vehicle 43
+Speed: 263.84 km/h
+###########
+
+12:46:13
+Vehicle 50
+Speed: 0.00 km/h
+###########
+
+12:46:13
+Vehicle 28
+Speed: 215.93 km/h
+###########
+
+12:46:13
+Vehicle 34
+Speed: 146.79 km/h
+###########
+
+12:46:13
+Vehicle 36
+Speed: 203.22 km/h
+###########
+
+12:46:13
+Vehicle 41
+Speed: 146.81 km/h
+###########
+
+12:46:13
+Vehicle 43
+Speed: 262.75 km/h
+###########
+
+12:46:13
+Vehicle 50
+Speed: 116.41 km/h
+###########
+
+12:46:14
+Vehicle 28
+Speed: 217.60 km/h
+###########
+
+12:46:14
+Vehicle 34
+Speed: 146.94 km/h
+###########
+
+12:46:14
+Vehicle 36
+Speed: 201.45 km/h
+###########
+
+12:46:14
+Vehicle 41
+Speed: 146.35 km/h
+###########
+
+12:46:14
+Vehicle 43
+Speed: 262.20 km/h
+###########
+
+12:46:14
+Vehicle 50
+Speed: 105.59 km/h
+###########
+
+12:46:14
+Vehicle 28
+Speed: 219.34 km/h
+###########
+
+12:46:14
+Vehicle 34
+Speed: 146.08 km/h
+###########
+
+12:46:14
+Vehicle 36
+Speed: 199.73 km/h
+###########
+
+12:46:14
+Vehicle 41
+Speed: 144.61 km/h
+###########
+
+12:46:14
+Vehicle 43
+Speed: 263.07 km/h
+###########
+
+12:46:14
+Vehicle 50
+Speed: 106.39 km/h
+###########
+
+12:46:15
+Vehicle 28
+Speed: 221.01 km/h
+###########
+
+12:46:15
+Vehicle 34
+Speed: 146.33 km/h
+###########
+
+12:46:15
+Vehicle 36
+Speed: 197.92 km/h
+###########
+
+12:46:15
+Vehicle 41
+Speed: 142.99 km/h
+###########
+
+12:46:15
+Vehicle 43
+Speed: 263.58 km/h
+###########
+
+12:46:15
+Vehicle 50
+Speed: 107.50 km/h
+###########
+
+12:46:15
+Vehicle 28
+Speed: 225.52 km/h
+###########
+
+12:46:15
+Vehicle 34
+Speed: 145.53 km/h
+###########
+
+12:46:15
+Vehicle 36
+Speed: 196.16 km/h
+###########
+
+12:46:15
+Vehicle 41
+Speed: 141.26 km/h
+###########
+
+12:46:15
+Vehicle 43
+Speed: 264.65 km/h
+###########
+
+12:46:15
+Vehicle 50
+Speed: 106.96 km/h
+###########
+
+12:46:16
+Vehicle 28
+Speed: 226.16 km/h
+###########
+
+12:46:16
+Vehicle 34
+Speed: 145.81 km/h
+###########
+
+12:46:16
+Vehicle 36
+Speed: 194.44 km/h
+###########
+
+12:46:16
+Vehicle 41
+Speed: 139.54 km/h
+###########
+
+12:46:16
+Vehicle 43
+Speed: 266.21 km/h
+###########
+
+12:46:16
+Vehicle 50
+Speed: 108.98 km/h
+###########
+
+12:46:17
+Vehicle 28
+Speed: 227.63 km/h
+###########
+
+12:46:17
+Vehicle 34
+Speed: 146.13 km/h
+###########
+
+12:46:17
+Vehicle 36
+Speed: 192.70 km/h
+###########
+
+12:46:17
+Vehicle 41
+Speed: 137.93 km/h
+###########
+
+12:46:17
+Vehicle 43
+Speed: 280.98 km/h
+###########
+
+12:46:17
+Vehicle 50
+Speed: 106.56 km/h
+###########
+
+12:46:17
+Vehicle 28
+Speed: 229.84 km/h
+###########
+
+12:46:17
+Vehicle 34
+Speed: 147.60 km/h
+###########
+
+12:46:17
+Vehicle 36
+Speed: 190.97 km/h
+###########
+
+12:46:17
+Vehicle 41
+Speed: 136.24 km/h
+###########
+
+12:46:17
+Vehicle 43
+Speed: 277.06 km/h
+###########
+
+12:46:17
+Vehicle 50
+Speed: 107.95 km/h
+###########
+
+12:46:18
+Vehicle 28
+Speed: 231.81 km/h
+###########
+
+12:46:18
+Vehicle 34
+Speed: 146.81 km/h
+###########
+
+12:46:18
+Vehicle 36
+Speed: 189.25 km/h
+###########
+
+12:46:18
+Vehicle 41
+Speed: 134.65 km/h
+###########
+
+12:46:18
+Vehicle 43
+Speed: 275.13 km/h
+###########
+
+12:46:18
+Vehicle 50
+Speed: 108.32 km/h
+###########
+
+12:46:18
+Vehicle 53
+Speed: 0.00 km/h
+###########
+
+12:46:18
+Vehicle 28
+Speed: 232.87 km/h
+###########
+
+12:46:18
+Vehicle 34
+Speed: 147.25 km/h
+###########
+
+12:46:18
+Vehicle 36
+Speed: 187.55 km/h
+###########
+
+12:46:18
+Vehicle 41
+Speed: 133.01 km/h
+###########
+
+12:46:18
+Vehicle 43
+Speed: 273.55 km/h
+###########
+
+12:46:18
+Vehicle 50
+Speed: 107.89 km/h
+###########
+
+12:46:18
+Vehicle 53
+Speed: 255.61 km/h
+###########
+
+12:46:19
+Vehicle 28
+Speed: 234.30 km/h
+###########
+
+12:46:19
+Vehicle 34
+Speed: 147.72 km/h
+###########
+
+12:46:19
+Vehicle 36
+Speed: 185.86 km/h
+###########
+
+12:46:19
+Vehicle 41
+Speed: 131.39 km/h
+###########
+
+12:46:19
+Vehicle 43
+Speed: 267.38 km/h
+###########
+
+12:46:19
+Vehicle 50
+Speed: 106.70 km/h
+###########
+
+12:46:19
+Vehicle 53
+Speed: 212.48 km/h
+###########
+
+12:46:19
+Vehicle 28
+Speed: 235.33 km/h
+###########
+
+12:46:19
+Vehicle 34
+Speed: 148.23 km/h
+###########
+
+12:46:19
+Vehicle 36
+Speed: 184.19 km/h
+###########
+
+12:46:19
+Vehicle 41
+Speed: 129.85 km/h
+###########
+
+12:46:19
+Vehicle 43
+Speed: 264.77 km/h
+###########
+
+12:46:19
+Vehicle 50
+Speed: 108.20 km/h
+###########
+
+12:46:19
+Vehicle 53
+Speed: 195.97 km/h
+###########
+
+12:46:20
+Vehicle 28
+Speed: 236.90 km/h
+###########
+
+12:46:20
+Vehicle 34
+Speed: 148.78 km/h
+###########
+
+12:46:20
+Vehicle 36
+Speed: 182.57 km/h
+###########
+
+12:46:20
+Vehicle 41
+Speed: 128.28 km/h
+###########
+
+12:46:20
+Vehicle 43
+Speed: 262.40 km/h
+###########
+
+12:46:20
+Vehicle 50
+Speed: 108.85 km/h
+###########
+
+12:46:20
+Vehicle 53
+Speed: 188.15 km/h
+###########
+
+12:46:20
+Vehicle 28
+Speed: 241.80 km/h
+###########
+
+12:46:20
+Vehicle 34
+Speed: 149.38 km/h
+###########
+
+12:46:20
+Vehicle 36
+Speed: 180.91 km/h
+###########
+
+12:46:20
+Vehicle 41
+Speed: 126.73 km/h
+###########
+
+12:46:20
+Vehicle 43
+Speed: 261.12 km/h
+###########
+
+12:46:20
+Vehicle 50
+Speed: 107.69 km/h
+###########
+
+12:46:20
+Vehicle 53
+Speed: 181.70 km/h
+###########
+
+12:46:21
+Vehicle 28
+Speed: 243.44 km/h
+###########
+
+12:46:21
+Vehicle 34
+Speed: 148.94 km/h
+###########
+
+12:46:21
+Vehicle 36
+Speed: 179.30 km/h
+###########
+
+12:46:21
+Vehicle 41
+Speed: 125.27 km/h
+###########
+
+12:46:21
+Vehicle 43
+Speed: 260.08 km/h
+###########
+
+12:46:21
+Vehicle 50
+Speed: 108.84 km/h
+###########
+
+12:46:21
+Vehicle 53
+Speed: 176.85 km/h
+###########
+
+12:46:21
+Vehicle 28
+Speed: 244.36 km/h
+###########
+
+12:46:21
+Vehicle 34
+Speed: 149.64 km/h
+###########
+
+12:46:21
+Vehicle 36
+Speed: 177.72 km/h
+###########
+
+12:46:21
+Vehicle 41
+Speed: 123.77 km/h
+###########
+
+12:46:21
+Vehicle 43
+Speed: 259.33 km/h
+###########
+
+12:46:21
+Vehicle 50
+Speed: 108.27 km/h
+###########
+
+12:46:21
+Vehicle 53
+Speed: 173.28 km/h
+###########
+
+12:46:21
+Vehicle 55
+Speed: 0.00 km/h
+###########
+
+12:46:22
+Vehicle 28
+Speed: 246.01 km/h
+###########
+
+12:46:22
+Vehicle 34
+Speed: 149.13 km/h
+###########
+
+12:46:22
+Vehicle 36
+Speed: 176.15 km/h
+###########
+
+12:46:22
+Vehicle 41
+Speed: 122.30 km/h
+###########
+
+12:46:22
+Vehicle 43
+Speed: 258.82 km/h
+###########
+
+12:46:22
+Vehicle 50
+Speed: 107.98 km/h
+###########
+
+12:46:22
+Vehicle 53
+Speed: 170.51 km/h
+###########
+
+12:46:22
+Vehicle 55
+Speed: 183.20 km/h
+###########
+
+12:46:22
+Vehicle 28
+Speed: 246.02 km/h
+###########
+
+12:46:22
+Vehicle 34
+Speed: 149.90 km/h
+###########
+
+12:46:22
+Vehicle 36
+Speed: 174.59 km/h
+###########
+
+12:46:22
+Vehicle 41
+Speed: 120.90 km/h
+###########
+
+12:46:22
+Vehicle 43
+Speed: 256.66 km/h
+###########
+
+12:46:23
+Vehicle 50
+Speed: 107.91 km/h
+###########
+
+12:46:23
+Vehicle 53
+Speed: 175.18 km/h
+###########
+
+12:46:23
+Vehicle 55
+Speed: 135.88 km/h
+###########
+
+12:46:23
+Vehicle 28
+Speed: 249.09 km/h
+###########
+
+12:46:23
+Vehicle 34
+Speed: 148.48 km/h
+###########
+
+12:46:23
+Vehicle 36
+Speed: 173.05 km/h
+###########
+
+12:46:23
+Vehicle 41
+Speed: 119.49 km/h
+###########
+
+12:46:23
+Vehicle 43
+Speed: 255.45 km/h
+###########
+
+12:46:23
+Vehicle 50
+Speed: 108.95 km/h
+###########
+
+12:46:23
+Vehicle 53
+Speed: 178.50 km/h
+###########
+
+12:46:23
+Vehicle 55
+Speed: 177.15 km/h
+###########
+
+12:46:24
+Vehicle 28
+Speed: 255.47 km/h
+###########
+
+12:46:24
+Vehicle 34
+Speed: 149.30 km/h
+###########
+
+12:46:24
+Vehicle 36
+Speed: 171.54 km/h
+###########
+
+12:46:24
+Vehicle 41
+Speed: 118.13 km/h
+###########
+
+12:46:24
+Vehicle 43
+Speed: 250.93 km/h
+###########
+
+12:46:24
+Vehicle 50
+Speed: 108.36 km/h
+###########
+
+12:46:24
+Vehicle 53
+Speed: 174.73 km/h
+###########
+
+12:46:24
+Vehicle 55
+Speed: 214.78 km/h
+###########
+
+12:46:24
+Vehicle 28
+Speed: 259.43 km/h
+###########
+
+12:46:24
+Vehicle 34
+Speed: 148.88 km/h
+###########
+
+12:46:24
+Vehicle 36
+Speed: 170.04 km/h
+###########
+
+12:46:24
+Vehicle 41
+Speed: 116.77 km/h
+###########
+
+12:46:24
+Vehicle 43
+Speed: 250.05 km/h
+###########
+
+12:46:24
+Vehicle 50
+Speed: 107.95 km/h
+###########
+
+12:46:24
+Vehicle 53
+Speed: 176.50 km/h
+###########
+
+12:46:24
+Vehicle 55
+Speed: 188.55 km/h
+###########
+
+12:46:25
+Vehicle 28
+Speed: 262.24 km/h
+###########
+
+12:46:25
+Vehicle 34
+Speed: 149.72 km/h
+###########
+
+12:46:25
+Vehicle 36
+Speed: 168.57 km/h
+###########
+
+12:46:25
+Vehicle 41
+Speed: 115.43 km/h
+###########
+
+12:46:25
+Vehicle 43
+Speed: 248.49 km/h
+###########
+
+12:46:25
+Vehicle 50
+Speed: 107.77 km/h
+###########
+
+12:46:25
+Vehicle 53
+Speed: 177.89 km/h
+###########
+
+12:46:25
+Vehicle 55
+Speed: 184.09 km/h
+###########
+
+12:46:25
+Vehicle 28
+Speed: 264.48 km/h
+###########
+
+12:46:25
+Vehicle 34
+Speed: 150.61 km/h
+###########
+
+12:46:25
+Vehicle 36
+Speed: 167.11 km/h
+###########
+
+12:46:25
+Vehicle 41
+Speed: 114.15 km/h
+###########
+
+12:46:25
+Vehicle 43
+Speed: 248.01 km/h
+###########
+
+12:46:25
+Vehicle 50
+Speed: 108.56 km/h
+###########
+
+12:46:25
+Vehicle 53
+Speed: 174.23 km/h
+###########
+
+12:46:25
+Vehicle 55
+Speed: 180.05 km/h
+###########
+
+12:46:26
+Vehicle 34
+Speed: 150.31 km/h
+###########
+
+12:46:26
+Vehicle 36
+Speed: 165.67 km/h
+###########
+
+12:46:26
+Vehicle 41
+Speed: 112.86 km/h
+###########
+
+12:46:26
+Vehicle 43
+Speed: 247.73 km/h
+###########
+
+12:46:26
+Vehicle 50
+Speed: 107.81 km/h
+###########
+
+12:46:26
+Vehicle 53
+Speed: 178.74 km/h
+###########
+
+12:46:26
+Vehicle 55
+Speed: 176.91 km/h
+###########
+
+12:46:26
+Vehicle 34
+Speed: 151.26 km/h
+###########
+
+12:46:26
+Vehicle 36
+Speed: 164.27 km/h
+###########
+
+12:46:26
+Vehicle 41
+Speed: 111.62 km/h
+###########
+
+12:46:26
+Vehicle 43
+Speed: 246.68 km/h
+###########
+
+12:46:26
+Vehicle 50
+Speed: 108.05 km/h
+###########
+
+12:46:26
+Vehicle 53
+Speed: 175.04 km/h
+###########
+
+12:46:26
+Vehicle 55
+Speed: 173.83 km/h
+###########
+
+12:46:27
+Vehicle 34
+Speed: 150.95 km/h
+###########
+
+12:46:27
+Vehicle 36
+Speed: 162.87 km/h
+###########
+
+12:46:27
+Vehicle 41
+Speed: 110.38 km/h
+###########
+
+12:46:27
+Vehicle 43
+Speed: 246.77 km/h
+###########
+
+12:46:27
+Vehicle 50
+Speed: 107.60 km/h
+###########
+
+12:46:27
+Vehicle 53
+Speed: 175.05 km/h
+###########
+
+12:46:27
+Vehicle 55
+Speed: 164.03 km/h
+###########
+
+12:46:27
+Vehicle 34
+Speed: 151.43 km/h
+###########
+
+12:46:27
+Vehicle 36
+Speed: 161.50 km/h
+###########
+
+12:46:27
+Vehicle 41
+Speed: 109.16 km/h
+###########
+
+12:46:27
+Vehicle 43
+Speed: 246.02 km/h
+###########
+
+12:46:27
+Vehicle 50
+Speed: 108.86 km/h
+###########
+
+12:46:27
+Vehicle 53
+Speed: 174.79 km/h
+###########
+
+12:46:27
+Vehicle 55
+Speed: 162.26 km/h
+###########
+
+12:46:28
+Vehicle 34
+Speed: 152.70 km/h
+###########
+
+12:46:28
+Vehicle 36
+Speed: 160.14 km/h
+###########
+
+12:46:28
+Vehicle 41
+Speed: 107.99 km/h
+###########
+
+12:46:28
+Vehicle 43
+Speed: 246.47 km/h
+###########
+
+12:46:28
+Vehicle 50
+Speed: 108.69 km/h
+###########
+
+12:46:28
+Vehicle 53
+Speed: 174.21 km/h
+###########
+
+12:46:28
+Vehicle 55
+Speed: 154.66 km/h
+###########
+
+12:46:28
+Vehicle 59
+Speed: 0.00 km/h
+###########
+
+12:46:28
+Vehicle 34
+Speed: 154.08 km/h
+###########
+
+12:46:28
+Vehicle 36
+Speed: 158.80 km/h
+###########
+
+12:46:28
+Vehicle 41
+Speed: 106.82 km/h
+###########
+
+12:46:28
+Vehicle 43
+Speed: 247.12 km/h
+###########
+
+12:46:28
+Vehicle 50
+Speed: 108.58 km/h
+###########
+
+12:46:28
+Vehicle 53
+Speed: 173.48 km/h
+###########
+
+12:46:28
+Vehicle 55
+Speed: 158.85 km/h
+###########
+
+12:46:28
+Vehicle 59
+Speed: 168.96 km/h
+###########
+
+12:46:29
+Vehicle 34
+Speed: 154.01 km/h
+###########
+
+12:46:29
+Vehicle 36
+Speed: 157.48 km/h
+###########
+
+12:46:29
+Vehicle 41
+Speed: 105.69 km/h
+###########
+
+12:46:29
+Vehicle 43
+Speed: 246.90 km/h
+###########
+
+12:46:29
+Vehicle 50
+Speed: 107.85 km/h
+###########
+
+12:46:29
+Vehicle 53
+Speed: 174.92 km/h
+###########
+
+12:46:29
+Vehicle 55
+Speed: 157.53 km/h
+###########
+
+12:46:29
+Vehicle 59
+Speed: 130.26 km/h
+###########
+
+12:46:29
+Vehicle 34
+Speed: 155.55 km/h
+###########
+
+12:46:29
+Vehicle 36
+Speed: 154.39 km/h
+###########
+
+12:46:29
+Vehicle 41
+Speed: 104.56 km/h
+###########
+
+12:46:29
+Vehicle 43
+Speed: 247.93 km/h
+###########
+
+12:46:29
+Vehicle 50
+Speed: 107.99 km/h
+###########
+
+12:46:29
+Vehicle 53
+Speed: 173.79 km/h
+###########
+
+12:46:29
+Vehicle 55
+Speed: 155.90 km/h
+###########
+
+12:46:29
+Vehicle 59
+Speed: 116.38 km/h
+###########
+
+12:46:29
+Vehicle 34
+Speed: 155.43 km/h
+###########
+
+12:46:29
+Vehicle 36
+Speed: 152.48 km/h
+###########
+
+12:46:29
+Vehicle 41
+Speed: 103.48 km/h
+###########
+
+12:46:29
+Vehicle 43
+Speed: 248.00 km/h
+###########
+
+12:46:29
+Vehicle 50
+Speed: 106.67 km/h
+###########
+
+12:46:29
+Vehicle 53
+Speed: 176.73 km/h
+###########
+
+12:46:29
+Vehicle 55
+Speed: 154.44 km/h
+###########
+
+12:46:29
+Vehicle 59
+Speed: 108.89 km/h
+###########
+
+12:46:30
+Vehicle 34
+Speed: 156.84 km/h
+###########
+
+12:46:30
+Vehicle 36
+Speed: 151.64 km/h
+###########
+
+12:46:30
+Vehicle 41
+Speed: 102.39 km/h
+###########
+
+12:46:30
+Vehicle 43
+Speed: 249.43 km/h
+###########
+
+12:46:30
+Vehicle 50
+Speed: 106.97 km/h
+###########
+
+12:46:30
+Vehicle 53
+Speed: 175.15 km/h
+###########
+
+12:46:30
+Vehicle 55
+Speed: 152.88 km/h
+###########
+
+12:46:30
+Vehicle 59
+Speed: 103.95 km/h
+###########
+
+12:46:30
+Vehicle 34
+Speed: 162.45 km/h
+###########
+
+12:46:30
+Vehicle 36
+Speed: 150.81 km/h
+###########
+
+12:46:30
+Vehicle 41
+Speed: 101.32 km/h
+###########
+
+12:46:30
+Vehicle 43
+Speed: 251.08 km/h
+###########
+
+12:46:30
+Vehicle 50
+Speed: 108.16 km/h
+###########
+
+12:46:30
+Vehicle 53
+Speed: 171.92 km/h
+###########
+
+12:46:30
+Vehicle 55
+Speed: 148.00 km/h
+###########
+
+12:46:30
+Vehicle 59
+Speed: 102.92 km/h
+###########
+
+12:46:31
+Vehicle 34
+Speed: 162.42 km/h
+###########
+
+12:46:31
+Vehicle 36
+Speed: 148.99 km/h
+###########
+
+12:46:31
+Vehicle 41
+Speed: 100.29 km/h
+###########
+
+12:46:31
+Vehicle 43
+Speed: 251.72 km/h
+###########
+
+12:46:31
+Vehicle 50
+Speed: 107.91 km/h
+###########
+
+12:46:31
+Vehicle 53
+Speed: 177.21 km/h
+###########
+
+12:46:31
+Vehicle 55
+Speed: 146.75 km/h
+###########
+
+12:46:31
+Vehicle 59
+Speed: 99.68 km/h
+###########
+
+12:46:31
+Vehicle 34
+Speed: 162.43 km/h
+###########
+
+12:46:31
+Vehicle 36
+Speed: 148.19 km/h
+###########
+
+12:46:31
+Vehicle 41
+Speed: 99.27 km/h
+###########
+
+12:46:31
+Vehicle 43
+Speed: 253.81 km/h
+###########
+
+12:46:31
+Vehicle 50
+Speed: 107.71 km/h
+###########
+
+12:46:31
+Vehicle 53
+Speed: 176.92 km/h
+###########
+
+12:46:31
+Vehicle 55
+Speed: 148.50 km/h
+###########
+
+12:46:31
+Vehicle 59
+Speed: 96.95 km/h
+###########
+
+12:46:31
+Vehicle 60
+Speed: 0.00 km/h
+###########
+
+12:46:32
+Vehicle 34
+Speed: 162.16 km/h
+###########
+
+12:46:32
+Vehicle 36
+Speed: 146.38 km/h
+###########
+
+12:46:32
+Vehicle 41
+Speed: 98.26 km/h
+###########
+
+12:46:32
+Vehicle 43
+Speed: 256.15 km/h
+###########
+
+12:46:32
+Vehicle 50
+Speed: 107.62 km/h
+###########
+
+12:46:32
+Vehicle 53
+Speed: 177.92 km/h
+###########
+
+12:46:32
+Vehicle 55
+Speed: 152.78 km/h
+###########
+
+12:46:32
+Vehicle 59
+Speed: 94.61 km/h
+###########
+
+12:46:32
+Vehicle 60
+Speed: 193.51 km/h
+###########
+
+12:46:32
+Vehicle 34
+Speed: 161.92 km/h
+###########
+
+12:46:32
+Vehicle 36
+Speed: 145.64 km/h
+###########
+
+12:46:32
+Vehicle 41
+Speed: 97.27 km/h
+###########
+
+12:46:32
+Vehicle 43
+Speed: 257.34 km/h
+###########
+
+12:46:32
+Vehicle 50
+Speed: 107.57 km/h
+###########
+
+12:46:32
+Vehicle 53
+Speed: 177.19 km/h
+###########
+
+12:46:32
+Vehicle 55
+Speed: 156.02 km/h
+###########
+
+12:46:32
+Vehicle 59
+Speed: 92.57 km/h
+###########
+
+12:46:32
+Vehicle 60
+Speed: 96.75 km/h
+###########
+
+12:46:33
+Vehicle 34
+Speed: 163.65 km/h
+###########
+
+12:46:33
+Vehicle 36
+Speed: 143.93 km/h
+###########
+
+12:46:33
+Vehicle 41
+Speed: 96.31 km/h
+###########
+
+12:46:33
+Vehicle 43
+Speed: 285.72 km/h
+###########
+
+12:46:33
+Vehicle 50
+Speed: 108.34 km/h
+###########
+
+12:46:33
+Vehicle 53
+Speed: 176.35 km/h
+###########
+
+12:46:33
+Vehicle 55
+Speed: 154.17 km/h
+###########
+
+12:46:33
+Vehicle 59
+Speed: 91.99 km/h
+###########
+
+12:46:33
+Vehicle 60
+Speed: 126.46 km/h
+###########
+
+12:46:34
+Vehicle 34
+Speed: 164.07 km/h
+###########
+
+12:46:34
+Vehicle 36
+Speed: 142.26 km/h
+###########
+
+12:46:34
+Vehicle 41
+Speed: 95.36 km/h
+###########
+
+12:46:34
+Vehicle 43
+Speed: 283.41 km/h
+###########
+
+12:46:34
+Vehicle 50
+Speed: 107.71 km/h
+###########
+
+12:46:34
+Vehicle 53
+Speed: 175.46 km/h
+###########
+
+12:46:34
+Vehicle 55
+Speed: 154.46 km/h
+###########
+
+12:46:34
+Vehicle 59
+Speed: 150.64 km/h
+###########
+
+12:46:34
+Vehicle 60
+Speed: 119.62 km/h
+###########
+
+12:46:34
+Vehicle 34
+Speed: 164.19 km/h
+###########
+
+12:46:34
+Vehicle 36
+Speed: 136.16 km/h
+###########
+
+12:46:34
+Vehicle 41
+Speed: 94.44 km/h
+###########
+
+12:46:34
+Vehicle 43
+Speed: 282.18 km/h
+###########
+
+12:46:34
+Vehicle 50
+Speed: 107.88 km/h
+###########
+
+12:46:34
+Vehicle 53
+Speed: 175.61 km/h
+###########
+
+12:46:34
+Vehicle 55
+Speed: 152.62 km/h
+###########
+
+12:46:34
+Vehicle 59
+Speed: 147.19 km/h
+###########
+
+12:46:34
+Vehicle 60
+Speed: 149.48 km/h
+###########
+
+12:46:35
+Vehicle 34
+Speed: 164.30 km/h
+###########
+
+12:46:35
+Vehicle 36
+Speed: 133.83 km/h
+###########
+
+12:46:35
+Vehicle 41
+Speed: 93.52 km/h
+###########
+
+12:46:35
+Vehicle 43
+Speed: 281.15 km/h
+###########
+
+12:46:35
+Vehicle 50
+Speed: 108.12 km/h
+###########
+
+12:46:35
+Vehicle 53
+Speed: 175.52 km/h
+###########
+
+12:46:35
+Vehicle 55
+Speed: 150.78 km/h
+###########
+
+12:46:35
+Vehicle 59
+Speed: 143.95 km/h
+###########
+
+12:46:35
+Vehicle 60
+Speed: 139.82 km/h
+###########
+
+12:46:36
+Vehicle 34
+Speed: 164.18 km/h
+###########
+
+12:46:36
+Vehicle 36
+Speed: 132.38 km/h
+###########
+
+12:46:36
+Vehicle 41
+Speed: 92.61 km/h
+###########
+
+12:46:36
+Vehicle 43
+Speed: 280.16 km/h
+###########
+
+12:46:36
+Vehicle 50
+Speed: 108.42 km/h
+###########
+
+12:46:36
+Vehicle 53
+Speed: 175.29 km/h
+###########
+
+12:46:36
+Vehicle 55
+Speed: 149.00 km/h
+###########
+
+12:46:36
+Vehicle 59
+Speed: 151.36 km/h
+###########
+
+12:46:36
+Vehicle 60
+Speed: 156.14 km/h
+###########
+
+12:46:36
+Vehicle 34
+Speed: 164.68 km/h
+###########
+
+12:46:36
+Vehicle 36
+Speed: 130.94 km/h
+###########
+
+12:46:36
+Vehicle 41
+Speed: 91.74 km/h
+###########
+
+12:46:36
+Vehicle 43
+Speed: 277.35 km/h
+###########
+
+12:46:36
+Vehicle 50
+Speed: 108.05 km/h
+###########
+
+12:46:36
+Vehicle 53
+Speed: 175.79 km/h
+###########
+
+12:46:36
+Vehicle 55
+Speed: 148.99 km/h
+###########
+
+12:46:36
+Vehicle 59
+Speed: 151.21 km/h
+###########
+
+12:46:36
+Vehicle 60
+Speed: 157.67 km/h
+###########
+
+12:46:37
+Vehicle 34
+Speed: 164.93 km/h
+###########
+
+12:46:37
+Vehicle 36
+Speed: 128.79 km/h
+###########
+
+12:46:37
+Vehicle 41
+Speed: 90.87 km/h
+###########
+
+12:46:37
+Vehicle 43
+Speed: 275.53 km/h
+###########
+
+12:46:37
+Vehicle 50
+Speed: 108.46 km/h
+###########
+
+12:46:37
+Vehicle 53
+Speed: 176.07 km/h
+###########
+
+12:46:37
+Vehicle 55
+Speed: 147.20 km/h
+###########
+
+12:46:37
+Vehicle 59
+Speed: 151.43 km/h
+###########
+
+12:46:37
+Vehicle 60
+Speed: 158.15 km/h
+###########
+
+12:46:37
+Vehicle 34
+Speed: 164.93 km/h
+###########
+
+12:46:37
+Vehicle 36
+Speed: 127.40 km/h
+###########
+
+12:46:37
+Vehicle 41
+Speed: 90.03 km/h
+###########
+
+12:46:37
+Vehicle 43
+Speed: 273.84 km/h
+###########
+
+12:46:37
+Vehicle 50
+Speed: 108.21 km/h
+###########
+
+12:46:37
+Vehicle 53
+Speed: 175.37 km/h
+###########
+
+12:46:37
+Vehicle 55
+Speed: 145.52 km/h
+###########
+
+12:46:37
+Vehicle 59
+Speed: 151.12 km/h
+###########
+
+12:46:37
+Vehicle 60
+Speed: 173.20 km/h
+###########
+
+12:46:38
+Vehicle 34
+Speed: 162.93 km/h
+###########
+
+12:46:38
+Vehicle 36
+Speed: 125.33 km/h
+###########
+
+12:46:38
+Vehicle 41
+Speed: 89.19 km/h
+###########
+
+12:46:38
+Vehicle 43
+Speed: 271.17 km/h
+###########
+
+12:46:38
+Vehicle 50
+Speed: 107.26 km/h
+###########
+
+12:46:38
+Vehicle 53
+Speed: 175.26 km/h
+###########
+
+12:46:38
+Vehicle 55
+Speed: 151.24 km/h
+###########
+
+12:46:38
+Vehicle 59
+Speed: 150.76 km/h
+###########
+
+12:46:38
+Vehicle 60
+Speed: 158.16 km/h
+###########
