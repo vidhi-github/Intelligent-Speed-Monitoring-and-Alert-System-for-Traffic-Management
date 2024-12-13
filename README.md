@@ -35,51 +35,49 @@ To set up the project, the following tools and technologies are required:
 5. **NVIDIA DGX Server**: With powerful GPUs, the DGX system accelerates the training and deployment of AI models, allowing the system to process high-resolution video frames in real-time.
 6. **Email System**: Integrated into the system to send automatic violation alerts to the concerned authorities with the captured image and vehicle number.
 
-## Setup and Running the Project
+### Steps to Setup the Project
 
-### 1. Access DGX Server
+1. **Setup DGX Server**:
+   The project utilizes NVIDIA DGX systems for GPU-powered training and model deployment.
 
-To begin, access the DGX server by entering its URL in ur browser.
+   - Access the DGX server by navigating to the IP address in your web browser:
+     ```
+     http://<DGX_IP_address>:<application_port>
+     ```
+   - Log in with the required username and password.
+  
+2. **Setting Up the Environment (notebook creation):**
+    ```bash
+    RAM: 6GB, CPU: 8 cores, GPU: 1 (with 20GB memory), Environment: **test**
+    **PyTorch Image**: Use the appropriate image for PyTorch.
+    **Flask Port**: 5000 (default).
+    ```
 
-### 2. Login
+3.  **Set up the python virtual environment:**
+     ```bash
+     sudo apt update
+     sudo apt install python3.8-venv
+     python -m venv newenv
+     source newenv/bin/activate
+     ```
 
-Log in using the **username** and **password** provided for accessing the DGX system.
+   - Install the required dependencies:
+     ```bash
+     pip install -r requirements.txt
+     ```
 
-### 3. Setting Up the Environment
+4. **Transfer Files to DGX Server**:
+   To transfer files from your local machine to the DGX server, use the `scp` command:
+   ```bash
+   scp -r -P <port_number> <local_folder> user@<DGX_IP>:<remote_folder>
+   ```
 
-- RAM: 6GB, CPU: 8 cores, GPU: 1 (with 20GB memory), Environment: **test**
-- **PyTorch Image**: Use the appropriate image for PyTorch.
-- **Flask Port**: 5000 (default).
-
-### 4. SSH into DGX Server
-
-To interact with the DGX system remotely, use the following SSH command:
-ssh -p "ssh port number" username @ "dgx portaddress"
-
-### 5. Transfer Files to DGX Server
-
-Use the **SCP** command to transfer files from your local machine to the DGX server. Example command:
-
-scp -P "port number" -r "user desktop file address" username@"dgx portaddress":"dgx system file address"
-
-This command will send the folder from your local desktop to the `desktop` directory on the DGX server.
-
-### 6. Set Up the Python Virtual Environment
-
-On the DGX server, run the following commands to update the system and set up the virtual environment:
-sudo apt update || sudo apt install python3.8-venv || python -m venv newenv
-
-### 7. Install Project Dependencies
-
-Activate the virtual environment and install the necessary dependencies from the `requirements.txt` file:
-
-source newenv/bin/activate || pip install -r requirements.txt
-
-### 8. Run the Application
-
-After the environment is set up and dependencies are installed, start the application by running:
-
-python3 app.py
+5. **Run the System**:
+   After setting up the environment and transferring the necessary files, run the system:
+   ```bash
+   python3 app.py
+   ```
+---
 
 The system will now process live video streams, detect vehicle speeds, mark violations, and trigger email alerts when a violation is detected.
 
