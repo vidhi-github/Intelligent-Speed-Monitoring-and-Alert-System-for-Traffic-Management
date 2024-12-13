@@ -54,13 +54,13 @@ Log in using the **username** and **password** provided for accessing the DGX sy
 ### 4. SSH into DGX Server
 
 To interact with the DGX system remotely, use the following SSH command:
-ssh -p <ssh port number> username @ <dgx portaddress>
+ssh -p "ssh port number" username @ "dgx portaddress"
 
 ### 5. Transfer Files to DGX Server
 
 Use the **SCP** command to transfer files from your local machine to the DGX server. Example command:
 
-scp -P <port number> -r "user desktop file address" username@<dgx portaddress>:"dgx system file address"
+scp -P "port number" -r "user desktop file address" username@"dgx portaddress":"dgx system file address"
 
 This command will send the folder from your local desktop to the `desktop` directory on the DGX server.
 
